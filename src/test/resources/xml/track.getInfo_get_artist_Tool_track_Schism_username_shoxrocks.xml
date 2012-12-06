@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<track>
+    <id>1005213</id>
+    <name>Schism</name>
+            <mbid>05bbace9-1650-4b97-8528-ddfa281c2a79</mbid>
+            <url>http://www.last.fm/music/Tool/_/Schism</url>
+    <duration>407000</duration>
+    <streamable fulltrack="0">1</streamable>    
+        <listeners>443551</listeners>
+    <playcount>3420348</playcount>
+        <userplaycount>28</userplaycount>    <userloved>0</userloved>
+        <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+                    <url>http://www.last.fm/music/Tool</url>
+    </artist>
+        <album position="5">
+        <artist>Tool</artist>
+        <title>Lateralus</title>
+                <mbid>451df9bc-1ba2-453c-9c60-9537a5f3c6e3</mbid>
+                    <url>http://www.last.fm/music/Tool/Lateralus</url>        
+        <image size="small">http://userserve-ak.last.fm/serve/64s/79053559.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/126/79053559.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/174s/79053559.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79053559.png</image>
+    </album>
+        <toptags>
+        <tag>
+	  <name>progressive metal</name>
+	  <url>http://www.last.fm/tag/progressive%20metal</url>
+	</tag>
+        <tag>
+	  <name>progressive rock</name>
+	  <url>http://www.last.fm/tag/progressive%20rock</url>
+	</tag>
+        <tag>
+	  <name>tool</name>
+	  <url>http://www.last.fm/tag/tool</url>
+	</tag>
+        <tag>
+	  <name>metal</name>
+	  <url>http://www.last.fm/tag/metal</url>
+	</tag>
+        <tag>
+	  <name>rock</name>
+	  <url>http://www.last.fm/tag/rock</url>
+	</tag>
+      </toptags>
+          <wiki>
+        <published>Sun, 24 Jun 2012 19:44:47 +0000</published>
+        <summary><![CDATA[&quot;<a title="Tool &ndash; Schism" href="http://www.last.fm/music/Tool/_/Schism" class="bbcode_track">Schism</a>&quot; is a song by American alternative metal / progressive metal band <a href="http://www.last.fm/music/Tool" class="bbcode_artist">Tool</a>. It was the first single and music video from their third full-length album, <a title="Tool - Lateralus" href="http://www.last.fm/music/Tool/Lateralus" class="bbcode_album">Lateralus</a>. In 2002, Tool won the Grammy Award for Best Metal Performance for the song.  &quot;Schism&quot; was released as a DVD single on December 20, 2005. The DVD contains the music video, dual-commentary by David Yow, and a remix by Lustmord.  &quot;Schism&quot; is known as a prime example of Tool's use of complex rhythms and changing meters. An extended version of the song is performed live. ]]></summary>
+        <content><![CDATA[&quot;<a title="Tool &ndash; Schism" href="http://www.last.fm/music/Tool/_/Schism" class="bbcode_track">Schism</a>&quot; is a song by American alternative metal / progressive metal band <a href="http://www.last.fm/music/Tool" class="bbcode_artist">Tool</a>. It was the first single and music video from their third full-length album, <a title="Tool - Lateralus" href="http://www.last.fm/music/Tool/Lateralus" class="bbcode_album">Lateralus</a>. In 2002, Tool won the Grammy Award for Best Metal Performance for the song.  &quot;Schism&quot; was released as a DVD single on December 20, 2005. The DVD contains the music video, dual-commentary by David Yow, and a remix by Lustmord.  &quot;Schism&quot; is known as a prime example of Tool's use of complex rhythms and changing meters. An extended version of the song is performed live.  <strong>Song meter</strong> A possible analysis of the meter changes is found in the August 2001 issue of Guitar One magazine. As transcribed by Adam Perlmutter, the song starts in 5/4 for one measure followed by 21 measures of 6/4 (or 5/8 and 7/8 alternating), up to the first interlude, which is a bar of 3/8, three bars of 13/8, and a bar of 10/8. (This can be also interpreted as four 13/8 bars, but played with a 3/8 upbeat.) The next verse is eight bars of 6/4 followed by another interlude that fits the same pattern as the first. The next section is four bars of 6/4 followed by one bar of 11/8. Another eight-bar verse in 6/4 follows, with an interlude containing the same as before, except the final 10/8 bar is replaced with an 11/8 bar setting up the middle section, which is four bars of 7/4 before settling into a pattern of alternating 12/8 and 15/8, one bar each, twelve times. Following this, there are three bars of 4/4, a bar of 2/4, and four bars of 4/4 setting up another section, which is two bars of 9/8 followed by a bar of 10/8, that pattern again, a single bar of 9/8 followed by a 13/8 bar. This leads to an alternating set of 9/8 and 5/8, appearing four times before a bar of 9/8 and a bar of 6/8. Near the end, there is a 6/4 meter for eight bars, followed by eight bars of 4/4 to end the song. In all, the song changes meters 47 times. The band has comically said that the song is in &quot;6.5/8&quot;.
+        
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]></content>
+      </wiki>
+    </track></lfm>

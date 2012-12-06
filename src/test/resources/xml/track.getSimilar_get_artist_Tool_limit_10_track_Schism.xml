@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<similartracks track="Schism" artist="Tool">
+<track>
+    <name>Parabola</name>
+        <playcount>2918140</playcount>
+            <mbid>016d9643-722e-4283-85ed-2844038dc537</mbid>
+        <match>1</match>
+    <url>http://www.last.fm/music/Tool/_/Parabola</url>
+    <streamable fulltrack="0">1</streamable>
+    <duration>407000</duration>
+        <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+            <url>http://www.last.fm/music/Tool</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/79053559.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79053559.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79053559.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79053559.png</image>
+    </track>
+<track>
+    <name>Parabol</name>
+        <playcount>2143522</playcount>
+            <mbid>06c5531f-00d7-4886-a735-b6161f49627c</mbid>
+        <match>0.97893</match>
+    <url>http://www.last.fm/music/Tool/_/Parabol</url>
+    <streamable fulltrack="0">1</streamable>
+    <duration>407000</duration>
+        <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+            <url>http://www.last.fm/music/Tool</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/79053559.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79053559.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79053559.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79053559.png</image>
+    </track>
+<track>
+    <name>Judith</name>
+        <playcount>2496647</playcount>
+            <mbid>0a266637-7b9b-4317-8e64-95cf4a569477</mbid>
+        <match>0.251717</match>
+    <url>http://www.last.fm/music/A+Perfect+Circle/_/Judith</url>
+    <streamable fulltrack="0">0</streamable>
+    <duration>407000</duration>
+        <artist>
+        <name>A Perfect Circle</name>
+                <mbid>078a9376-3c04-4280-b7d7-b20e158f345d</mbid>
+            <url>http://www.last.fm/music/A+Perfect+Circle</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/17969809.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/17969809.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/17969809.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/17969809.jpg</image>
+    </track>
+<track>
+    <name>The Outsider</name>
+        <playcount>2564319</playcount>
+            <mbid>1577de46-b930-4844-a265-b031e1ca5623</mbid>
+        <match>0.250969</match>
+    <url>http://www.last.fm/music/A+Perfect+Circle/_/The+Outsider</url>
+    <streamable fulltrack="0">1</streamable>
+    <duration>407000</duration>
+        <artist>
+        <name>A Perfect Circle</name>
+                <mbid>078a9376-3c04-4280-b7d7-b20e158f345d</mbid>
+            <url>http://www.last.fm/music/A+Perfect+Circle</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/49980613.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/49980613.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/49980613.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/49980613.png</image>
+    </track>
+<track>
+    <name>Momma Sed</name>
+        <playcount>727316</playcount>
+            <mbid></mbid>
+        <match>0.15142</match>
+    <url>http://www.last.fm/music/Puscifer/_/Momma+Sed</url>
+    <streamable fulltrack="0">1</streamable>
+    <duration>407000</duration>
+        <artist>
+        <name>Puscifer</name>
+                <mbid>6e4277d8-7b64-44a3-b823-13bd15114e22</mbid>
+            <url>http://www.last.fm/music/Puscifer</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/70111442.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70111442.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70111442.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70111442.png</image>
+    </track>
+<track>
+    <name>Blackest Eyes</name>
+        <playcount>1533489</playcount>
+            <mbid>0579e1b6-0753-45ff-a5cc-70ded2d2ecc3</mbid>
+        <match>0.13534</match>
+    <url>http://www.last.fm/music/Porcupine+Tree/_/Blackest+Eyes</url>
+    <streamable fulltrack="0">0</streamable>
+    <duration>407000</duration>
+        <artist>
+        <name>Porcupine Tree</name>
+                <mbid>169c4c28-858e-497b-81a4-8bc15e0026ea</mbid>
+            <url>http://www.last.fm/music/Porcupine+Tree</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/77774518.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77774518.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77774518.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77774518.png</image>
+    </track>
+<track>
+    <name>Fear Of A Blank Planet</name>
+        <playcount>1112409</playcount>
+            <mbid>48b12288-c47d-428e-8654-2417b31e96f2</mbid>
+        <match>0.134325</match>
+    <url>http://www.last.fm/music/Porcupine+Tree/_/Fear+Of+A+Blank+Planet</url>
+    <streamable fulltrack="0">0</streamable>
+    <duration>407000</duration>
+        <artist>
+        <name>Porcupine Tree</name>
+                <mbid>169c4c28-858e-497b-81a4-8bc15e0026ea</mbid>
+            <url>http://www.last.fm/music/Porcupine+Tree</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/55237085.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55237085.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55237085.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55237085.png</image>
+    </track>
+<track>
+    <name>Windowpane</name>
+        <playcount>1743230</playcount>
+            <mbid>28753400-b9a0-4651-80ec-c854cae3e6a6</mbid>
+        <match>0.130059</match>
+    <url>http://www.last.fm/music/Opeth/_/Windowpane</url>
+    <streamable fulltrack="0">1</streamable>
+    <duration>407000</duration>
+        <artist>
+        <name>Opeth</name>
+                <mbid>c14b4180-dc87-481e-b17a-64e4150f90f6</mbid>
+            <url>http://www.last.fm/music/Opeth</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/78137994.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78137994.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78137994.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78137994.png</image>
+    </track>
+<track>
+    <name>Closure</name>
+        <playcount>1234521</playcount>
+            <mbid>089ded79-6a92-443b-8b9f-43d15ae086fd</mbid>
+        <match>0.123827</match>
+    <url>http://www.last.fm/music/Opeth/_/Closure</url>
+    <streamable fulltrack="0">1</streamable>
+    <duration>407000</duration>
+        <artist>
+        <name>Opeth</name>
+                <mbid>c14b4180-dc87-481e-b17a-64e4150f90f6</mbid>
+            <url>http://www.last.fm/music/Opeth</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/78137994.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78137994.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78137994.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78137994.png</image>
+    </track>
+<track>
+    <name>Curl of the Burl</name>
+        <playcount>449136</playcount>
+            <mbid>b2708012-840a-4bf9-bc11-bab17c041e36</mbid>
+        <match>0.108414</match>
+    <url>http://www.last.fm/music/Mastodon/_/Curl+of+the+Burl</url>
+    <streamable fulltrack="0">0</streamable>
+    <duration>407000</duration>
+        <artist>
+        <name>Mastodon</name>
+                <mbid>89fb7996-5b39-49bb-88aa-546953d1d731</mbid>
+            <url>http://www.last.fm/music/Mastodon</url>
+    </artist>
+            <image size="small">http://userserve-ak.last.fm/serve/34s/66445197.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/66445197.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/66445197.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/66445197.png</image>
+    </track>
+</similartracks></lfm>

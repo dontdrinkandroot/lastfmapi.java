@@ -1,0 +1,304 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<topalbums user="shoxrocks" type="12month" page="2" perPage="20" totalPages="50" total="985">
+
+                        <album rank="21">
+    <name>The Fragile (disc 1: Left)</name>
+            <playcount>25</playcount>
+                <mbid></mbid>
+                <url>http://www.last.fm/music/Nine+Inch+Nails/The+Fragile+(disc+1:+Left)</url>
+        <artist>
+        <name>Nine Inch Nails</name>
+                <mbid>b7ffd2af-418f-4be2-bdd1-22f8b48613da</mbid>
+            <url>http://www.last.fm/music/Nine+Inch+Nails</url>
+                    </artist>
+        <image size="small">http://images.amazon.com/images/P/B00001P4TH.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B00001P4TH.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B00001P4TH.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B00001P4TH.01.MZZZZZZZ.jpg</image>
+</album>                        <album rank="22">
+    <name>Bliss, Please</name>
+            <playcount>25</playcount>
+                <mbid>84dd57f1-06dd-4497-aac7-ac3544fda957</mbid>
+                <url>http://www.last.fm/music/Blackmail/Bliss,+Please</url>
+        <artist>
+        <name>Blackmail</name>
+                <mbid>08b05823-9b40-44e8-a5df-e2f59487d2fa</mbid>
+            <url>http://www.last.fm/music/Blackmail</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/36799495.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/36799495.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/36799495.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/36799495.jpg</image>
+</album>                        <album rank="23">
+    <name>The Well-Tempered Clavier, Book I (feat. piano: Glenn Gould) (disc 1)</name>
+            <playcount>25</playcount>
+                <mbid>5539ee9d-036c-4624-b4a4-4b66f77057d4</mbid>
+                <url>http://www.last.fm/music/Johann+Sebastian+Bach/The+Well-Tempered+Clavier,+Book+I+(feat.+piano:+Glenn+Gould)+(disc+1)</url>
+        <artist>
+        <name>Johann Sebastian Bach</name>
+                <mbid>24f1766e-9635-4d58-a4d4-9413f9f98a4c</mbid>
+            <url>http://www.last.fm/music/Johann+Sebastian+Bach</url>
+                    </artist>
+        <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+</album>                        <album rank="24">
+    <name>Effloresce</name>
+            <playcount>23</playcount>
+                <mbid>0f8d65cf-a2e5-35ad-aba0-28fd94c965ba</mbid>
+                <url>http://www.last.fm/music/Oceansize/Effloresce</url>
+        <artist>
+        <name>Oceansize</name>
+                <mbid>c147b96e-3428-4604-9b6c-d931f980f684</mbid>
+            <url>http://www.last.fm/music/Oceansize</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/78248612.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/78248612.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78248612.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/78248612.png</image>
+</album>                        <album rank="25">
+    <name>Trancelucent 2001: Uplifting Trance</name>
+            <playcount>23</playcount>
+                <mbid>47bf8705-45ec-4939-8330-c3c0799d4055</mbid>
+                <url>http://www.last.fm/music/Various+Artists/Trancelucent+2001:+Uplifting+Trance</url>
+        <artist>
+        <name>Various Artists</name>
+                <mbid>0677ef60-6be5-4e36-9d1e-8bb2bf85b981</mbid>
+            <url>http://www.last.fm/music/Various+Artists</url>
+                    </artist>
+        <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+    <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+</album>                        <album rank="26">
+    <name>Ghosts I-IV</name>
+            <playcount>23</playcount>
+                <mbid>a6db272a-22e6-485d-8d6b-e6d7f469a08c</mbid>
+                <url>http://www.last.fm/music/Nine+Inch+Nails/Ghosts+I-IV</url>
+        <artist>
+        <name>Nine Inch Nails</name>
+                <mbid>b7ffd2af-418f-4be2-bdd1-22f8b48613da</mbid>
+            <url>http://www.last.fm/music/Nine+Inch+Nails</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/59317045.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/59317045.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/59317045.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/59317045.png</image>
+</album>                        <album rank="27">
+    <name>Stoosh</name>
+            <playcount>22</playcount>
+                <mbid>330fe5a2-91d5-3163-b61c-249972951be3</mbid>
+                <url>http://www.last.fm/music/Skunk+Anansie/Stoosh</url>
+        <artist>
+        <name>Skunk Anansie</name>
+                <mbid>e212efdf-98b2-4dce-92ed-62cfc1e29854</mbid>
+            <url>http://www.last.fm/music/Skunk+Anansie</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/72978864.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/72978864.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/72978864.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/72978864.png</image>
+</album>                        <album rank="28">
+    <name>Much Against Everyone's Advice</name>
+            <playcount>22</playcount>
+                <mbid>00807e8a-b9bc-39b2-a7f2-3c9dad8ab462</mbid>
+                <url>http://www.last.fm/music/Soulwax/Much+Against+Everyone%27s+Advice</url>
+        <artist>
+        <name>Soulwax</name>
+                <mbid>68ec1b08-3c2e-40b3-b0af-8f323743fdff</mbid>
+            <url>http://www.last.fm/music/Soulwax</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/70394964.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/70394964.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/70394964.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/70394964.jpg</image>
+</album>                        <album rank="29">
+    <name>Visual Audio Sensory Theater</name>
+            <playcount>21</playcount>
+                <mbid>5f067622-b426-4879-a9f0-8c1efb117f55</mbid>
+                <url>http://www.last.fm/music/VAST/Visual+Audio+Sensory+Theater</url>
+        <artist>
+        <name>VAST</name>
+                <mbid>79e98efd-4515-412a-af83-df381f5badd6</mbid>
+            <url>http://www.last.fm/music/VAST</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/58617109.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/58617109.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/58617109.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58617109.png</image>
+</album>                        <album rank="30">
+    <name>Noise</name>
+            <playcount>20</playcount>
+                <mbid>2964715d-b827-4f5b-8485-4292275512d2</mbid>
+                <url>http://www.last.fm/music/Archive/Noise</url>
+        <artist>
+        <name>Archive</name>
+                <mbid>bd513de0-e42f-425e-ae46-817d7bc5fb1c</mbid>
+            <url>http://www.last.fm/music/Archive</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/52683369.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/52683369.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52683369.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/52683369.jpg</image>
+</album>                        <album rank="31">
+    <name>Yellow &amp; Green</name>
+            <playcount>20</playcount>
+                <mbid>2bcae5f7-fef1-421f-ba56-8ff7820e8229</mbid>
+                <url>http://www.last.fm/music/Baroness/Yellow+&amp;+Green</url>
+        <artist>
+        <name>Baroness</name>
+                <mbid>eeb41a1e-4326-4d04-8c47-0f564ceecd68</mbid>
+            <url>http://www.last.fm/music/Baroness</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/80037901.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80037901.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80037901.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80037901.jpg</image>
+</album>                        <album rank="32">
+    <name>Adrenaline</name>
+            <playcount>19</playcount>
+                <mbid>68212754-e64a-3616-9a40-29cdbf2ba425</mbid>
+                <url>http://www.last.fm/music/Deftones/Adrenaline</url>
+        <artist>
+        <name>Deftones</name>
+                <mbid>7527f6c2-d762-4b88-b5e2-9244f1e34c46</mbid>
+            <url>http://www.last.fm/music/Deftones</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/69558264.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/69558264.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/69558264.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/69558264.png</image>
+</album>                        <album rank="33">
+    <name>Invaders Must Die</name>
+            <playcount>19</playcount>
+                <mbid>0e01534c-c906-4970-9cb2-ae15f7385dde</mbid>
+                <url>http://www.last.fm/music/The+Prodigy/Invaders+Must+Die</url>
+        <artist>
+        <name>The Prodigy</name>
+                <mbid>4a4ee089-93b1-4470-af9a-6ff575d32704</mbid>
+            <url>http://www.last.fm/music/The+Prodigy</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/51031477.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/51031477.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/51031477.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51031477.png</image>
+</album>                        <album rank="34">
+    <name>El Cielo</name>
+            <playcount>18</playcount>
+                <mbid>2ed4fd06-90a9-3441-83be-737236425347</mbid>
+                <url>http://www.last.fm/music/Dredg/El+Cielo</url>
+        <artist>
+        <name>Dredg</name>
+                <mbid>7b2f87f6-db90-464e-a27a-deb4f7219e90</mbid>
+            <url>http://www.last.fm/music/Dredg</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/44611041.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/44611041.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/44611041.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44611041.jpg</image>
+</album>                        <album rank="35">
+    <name>Beaucoup Fish</name>
+            <playcount>18</playcount>
+                <mbid>1073abfc-768e-455b-9937-9b41b923c746</mbid>
+                <url>http://www.last.fm/music/Underworld/Beaucoup+Fish</url>
+        <artist>
+        <name>Underworld</name>
+                <mbid>ba2f4f3b-0293-4bc8-bb94-2f73b5207343</mbid>
+            <url>http://www.last.fm/music/Underworld</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/80207573.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/80207573.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/80207573.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80207573.png</image>
+</album>                        <album rank="36">
+    <name>Americana</name>
+            <playcount>18</playcount>
+                <mbid>2e5af9d2-f262-3f73-ab47-4884e945fa8e</mbid>
+                <url>http://www.last.fm/music/The+Offspring/Americana</url>
+        <artist>
+        <name>The Offspring</name>
+                <mbid>23a03e33-a603-404e-bcbf-2c00159d7067</mbid>
+            <url>http://www.last.fm/music/The+Offspring</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/39108805.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/39108805.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/39108805.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/39108805.png</image>
+</album>                        <album rank="37">
+    <name>Wrong Side Of Beautiful</name>
+            <playcount>18</playcount>
+                <mbid>20526a96-24db-4b79-b588-8a437eaf7a76</mbid>
+                <url>http://www.last.fm/music/Dub+War/Wrong+Side+Of+Beautiful</url>
+        <artist>
+        <name>Dub War</name>
+                <mbid>4325ade8-1b85-464d-864f-200320e1a72e</mbid>
+            <url>http://www.last.fm/music/Dub+War</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/33657507.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/33657507.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/33657507.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/33657507.jpg</image>
+</album>                        <album rank="38">
+    <name>Aerial View</name>
+            <playcount>18</playcount>
+                <mbid>270635ab-ead6-4c56-aced-b42846630548</mbid>
+                <url>http://www.last.fm/music/Blackmail/Aerial+View</url>
+        <artist>
+        <name>Blackmail</name>
+                <mbid>08b05823-9b40-44e8-a5df-e2f59487d2fa</mbid>
+            <url>http://www.last.fm/music/Blackmail</url>
+                    </artist>
+        <image size="small">http://images.amazon.com/images/P/B000C0WXFI.01.MZZZZZZZ.jpg</image>
+    <image size="medium">http://images.amazon.com/images/P/B000C0WXFI.01.MZZZZZZZ.jpg</image>
+    <image size="large">http://images.amazon.com/images/P/B000C0WXFI.01.MZZZZZZZ.jpg</image>
+    <image size="extralarge">http://images.amazon.com/images/P/B000C0WXFI.01.MZZZZZZZ.jpg</image>
+</album>                        <album rank="39">
+    <name>Fear Of A Blank Planet</name>
+            <playcount>18</playcount>
+                <mbid>05bd485b-ec66-4ca6-b969-402007cda9d5</mbid>
+                <url>http://www.last.fm/music/Porcupine+Tree/Fear+Of+A+Blank+Planet</url>
+        <artist>
+        <name>Porcupine Tree</name>
+                <mbid>169c4c28-858e-497b-81a4-8bc15e0026ea</mbid>
+            <url>http://www.last.fm/music/Porcupine+Tree</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/55237085.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/55237085.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55237085.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55237085.png</image>
+</album>                        <album rank="40">
+    <name>The Incident (disc 1)</name>
+            <playcount>18</playcount>
+                <mbid></mbid>
+                <url>http://www.last.fm/music/Porcupine+Tree/The+Incident+(disc+1)</url>
+        <artist>
+        <name>Porcupine Tree</name>
+                <mbid>169c4c28-858e-497b-81a4-8bc15e0026ea</mbid>
+            <url>http://www.last.fm/music/Porcupine+Tree</url>
+                    </artist>
+        <image size="small">http://userserve-ak.last.fm/serve/34s/34649749.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/34649749.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/34649749.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/34649749.jpg</image>
+</album></topalbums></lfm>

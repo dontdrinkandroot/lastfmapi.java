@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<results for="Lateralus" xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/">
+<opensearch:Query role="request" searchTerms="Lateralus" startPage="2" />
+<opensearch:totalResults>4</opensearch:totalResults>
+<opensearch:startIndex>20</opensearch:startIndex>
+<opensearch:itemsPerPage>20</opensearch:itemsPerPage><albummatches>
+<album>
+    <name>Lateralus</name>
+    <artist>Tool</artist>
+    <id>1414406</id>
+    <url>http://www.last.fm/music/Tool/Lateralus</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/79053559.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79053559.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/79053559.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79053559.png</image>
+    <streamable>1</streamable>
+            <mbid>451df9bc-1ba2-453c-9c60-9537a5f3c6e3</mbid>
+    </album>
+<album>
+    <name>Lateralus</name>
+    <artist>NeoTechnikal</artist>
+    <id>298013585</id>
+    <url>http://www.last.fm/music/NeoTechnikal/Lateralus</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/74331710.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/74331710.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/74331710.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/74331710.jpg</image>
+    <streamable>1</streamable>
+            <mbid></mbid>
+    </album>
+<album>
+    <name>Vitamin String Quartet Tribute to Tool's Lateralus</name>
+    <artist>Vitamin String Quartet</artist>
+    <id>61750063</id>
+    <url>http://www.last.fm/music/Vitamin+String+Quartet/Vitamin+String+Quartet+Tribute+to+Tool%27s+Lateralus</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/33165425.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/33165425.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/33165425.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/33165425.jpg</image>
+    <streamable>1</streamable>
+            <mbid></mbid>
+    </album>
+<album>
+    <name>Lateralus-Picture Lp</name>
+    <artist>Tool</artist>
+    <id>3046651</id>
+    <url>http://www.last.fm/music/Tool/Lateralus-Picture+Lp</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/3696201.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/3696201.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/3696201.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/3696201.jpg</image>
+    <streamable>0</streamable>
+            <mbid></mbid>
+    </album>
+</albummatches>
+</results></lfm>

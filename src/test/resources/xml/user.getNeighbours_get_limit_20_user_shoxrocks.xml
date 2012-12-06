@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<neighbours user="shoxrocks">
+<user>
+    <name>Croant</name>
+    <realname></realname>
+    <url>http://www.last.fm/user/Croant</url>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+    <image size="extralarge"></image>
+    <match>0.99906557798386</match>
+</user>
+<user>
+    <name>reflektor_</name>
+    <realname></realname>
+    <url>http://www.last.fm/user/reflektor_</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/81003315.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/81003315.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/81003315.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/81003315.jpg</image>
+    <match>0.99863809347153</match>
+</user>
+<user>
+    <name>kOmil</name>
+    <realname>gimme fried chicken</realname>
+    <url>http://www.last.fm/user/kOmil</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/67695306.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/67695306.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/67695306.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/67695306.png</image>
+    <match>0.99842166900635</match>
+</user>
+<user>
+    <name>CaptainBoozle</name>
+    <realname>Jan</realname>
+    <url>http://www.last.fm/user/CaptainBoozle</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/78848619.gif</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/78848619.gif</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/78848619.gif</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/78848619.gif</image>
+    <match>0.99840718507767</match>
+</user>
+<user>
+    <name>31ghosts13</name>
+    <realname></realname>
+    <url>http://www.last.fm/user/31ghosts13</url>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+    <image size="extralarge"></image>
+    <match>0.99827909469604</match>
+</user>
+<user>
+    <name>mcribos</name>
+    <realname>Mcribos</realname>
+    <url>http://www.last.fm/user/mcribos</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/38567737.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/38567737.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/38567737.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/38567737.jpg</image>
+    <match>0.998171210289</match>
+</user>
+<user>
+    <name>Joao_mimo</name>
+    <realname>Joao Mimoso</realname>
+    <url>http://www.last.fm/user/Joao_mimo</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/71459250.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/71459250.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/71459250.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/71459250.jpg</image>
+    <match>0.99789494276047</match>
+</user>
+<user>
+    <name>drwandel</name>
+    <realname>Daniel D.</realname>
+    <url>http://www.last.fm/user/drwandel</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/61510801.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/61510801.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/61510801.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/61510801.jpg</image>
+    <match>0.99788564443588</match>
+</user>
+<user>
+    <name>Ferretsnarf</name>
+    <realname>Michael Dick</realname>
+    <url>http://www.last.fm/user/Ferretsnarf</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/2586758.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/2586758.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/2586758.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/2586758.jpg</image>
+    <match>0.99787640571594</match>
+</user>
+<user>
+    <name>suonik</name>
+    <realname></realname>
+    <url>http://www.last.fm/user/suonik</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/74792772.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/74792772.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/74792772.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/74792772.jpg</image>
+    <match>0.9978688955307</match>
+</user>
+<user>
+    <name>Mellow_Death</name>
+    <realname></realname>
+    <url>http://www.last.fm/user/Mellow_Death</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/34495555.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/34495555.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/34495555.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/34495555.jpg</image>
+    <match>0.99785321950912</match>
+</user>
+<user>
+    <name>JACKEH89</name>
+    <realname>Jack Cole</realname>
+    <url>http://www.last.fm/user/JACKEH89</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/75750044.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/75750044.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/75750044.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/75750044.jpg</image>
+    <match>0.99782109260559</match>
+</user>
+<user>
+    <name>gemberwortel</name>
+    <realname>Wouter Zwarteveen</realname>
+    <url>http://www.last.fm/user/gemberwortel</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/21792785.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/21792785.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/21792785.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/21792785.jpg</image>
+    <match>0.99780040979385</match>
+</user>
+<user>
+    <name>LosingAll</name>
+    <realname>Scott Haller</realname>
+    <url>http://www.last.fm/user/LosingAll</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/4397980.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/4397980.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/4397980.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/4397980.jpg</image>
+    <match>0.99778228998184</match>
+</user>
+<user>
+    <name>lemongecko</name>
+    <realname></realname>
+    <url>http://www.last.fm/user/lemongecko</url>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+    <image size="extralarge"></image>
+    <match>0.9977805018425</match>
+</user>
+<user>
+    <name>mjridge</name>
+    <realname></realname>
+    <url>http://www.last.fm/user/mjridge</url>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+    <image size="extralarge"></image>
+    <match>0.99767488241196</match>
+</user>
+<user>
+    <name>t0yb0xri0t</name>
+    <realname></realname>
+    <url>http://www.last.fm/user/t0yb0xri0t</url>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+    <image size="extralarge"></image>
+    <match>0.99767273664474</match>
+</user>
+<user>
+    <name>Xelonne</name>
+    <realname>Yana</realname>
+    <url>http://www.last.fm/user/Xelonne</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/65505318.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/65505318.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/65505318.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/65505318.jpg</image>
+    <match>0.99757248163223</match>
+</user>
+<user>
+    <name>Jurij__</name>
+    <realname>Damian</realname>
+    <url>http://www.last.fm/user/Jurij__</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/43071877.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/43071877.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/43071877.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/43071877.jpg</image>
+    <match>0.9975403547287</match>
+</user>
+<user>
+    <name>d00m_m0nk3y</name>
+    <realname>Alex</realname>
+    <url>http://www.last.fm/user/d00m_m0nk3y</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/1005428.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/1005428.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/1005428.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/1005428.jpg</image>
+    <match>0.99751627445221</match>
+</user>
+</neighbours></lfm>

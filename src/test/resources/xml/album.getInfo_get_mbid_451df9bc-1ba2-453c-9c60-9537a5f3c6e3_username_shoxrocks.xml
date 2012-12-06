@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<album>
+    <name>Lateralus</name>
+    <artist>Tool</artist>
+    <id>1414406</id>
+            <mbid>451df9bc-1ba2-453c-9c60-9537a5f3c6e3</mbid>
+        <url>http://www.last.fm/music/Tool/Lateralus</url>
+    <releasedate>    15 May 2001, 00:00</releasedate>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/79053559.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/79053559.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/174s/79053559.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/79053559.png</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/_/79053559/Lateralus+Tool__cover.png</image>
+        <listeners>785972</listeners>
+    <playcount>23383260</playcount>
+    <userplaycount>213</userplaycount>    <tracks>
+                    <track rank="1">
+    <name>The Grudge</name>
+    <duration>516</duration>
+        
+            <mbid>04c688ab-025a-4785-af6a-d2cca6a9110c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/The+Grudge</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="2">
+    <name>Eon Blue Apocalypse</name>
+    <duration>64</duration>
+        
+            <mbid>9cc69146-9168-434a-a924-438305b12756</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Eon+Blue+Apocalypse</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="3">
+    <name>The Patient</name>
+    <duration>434</duration>
+        
+            <mbid>23cfea50-39e5-4ff6-9afd-9de43fa88531</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/The+Patient</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="4">
+    <name>Mantra</name>
+    <duration>72</duration>
+        
+            <mbid>47955be1-7db4-4e04-87d0-1e80da339471</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Mantra</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="5">
+    <name>Schism</name>
+    <duration>407</duration>
+        
+            <mbid>05bbace9-1650-4b97-8528-ddfa281c2a79</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Schism</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="6">
+    <name>Parabol</name>
+    <duration>184</duration>
+        
+            <mbid>06c5531f-00d7-4886-a735-b6161f49627c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Parabol</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="7">
+    <name>Parabola</name>
+    <duration>363</duration>
+        
+            <mbid>016d9643-722e-4283-85ed-2844038dc537</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Parabola</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="8">
+    <name>Ticks &amp; Leeches</name>
+    <duration>491</duration>
+        
+            <mbid>6d5e48f0-6bed-4da5-8b0c-694576d3e4ab</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Ticks+&amp;+Leeches</url>
+    <streamable fulltrack="0">0</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="9">
+    <name>Lateralus</name>
+    <duration>564</duration>
+        
+            <mbid>0540d520-8a13-4443-9ffb-8af57a43d8c4</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Lateralus</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="10">
+    <name>Disposition</name>
+    <duration>286</duration>
+        
+            <mbid>2b6cfa8f-9bee-443f-9690-e163e1d8e4ab</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Disposition</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="11">
+    <name>Reflection</name>
+    <duration>667</duration>
+        
+            <mbid>0525b44b-5bbc-4ecf-bf7a-115db157e985</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Reflection</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="12">
+    <name>Triad</name>
+    <duration>526</duration>
+        
+            <mbid>0eac9146-d4a9-4693-94b6-16e7fcaf8457</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Triad</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>                <track rank="13">
+    <name>Faaip de Oiad</name>
+    <duration>159</duration>
+        
+            <mbid>243e9a0e-9265-4c51-b072-2beb4b7d535c</mbid>
+         
+    
+    <url>http://www.last.fm/music/Tool/_/Faaip+de+Oiad</url>
+    <streamable fulltrack="0">1</streamable>
+            <artist>
+        <name>Tool</name>
+                <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+     
+        <url>http://www.last.fm/music/Tool</url>
+    </artist>
+    </track>        </tracks>
+    <toptags>
+        <tag>
+	  <name>albums i own</name>
+	  <url>http://www.last.fm/tag/albums%20i%20own</url>
+	</tag>
+        <tag>
+	  <name>progressive metal</name>
+	  <url>http://www.last.fm/tag/progressive%20metal</url>
+	</tag>
+        <tag>
+	  <name>progressive rock</name>
+	  <url>http://www.last.fm/tag/progressive%20rock</url>
+	</tag>
+        <tag>
+	  <name>favourite albums</name>
+	  <url>http://www.last.fm/tag/favourite%20albums</url>
+	</tag>
+        <tag>
+	  <name>metal</name>
+	  <url>http://www.last.fm/tag/metal</url>
+	</tag>
+      </toptags>
+         <wiki>
+        <published>Tue, 2 Aug 2011 22:56:35 +0000</published>
+        <summary><![CDATA[Lateralus (pronounced /lætərˈælɪs/[2]) is the third studio album by American alternative/progressive metal band Tool. The album was released on May 15, 2001, and debuted at number one on the Billboard 200 chart. On August 5, 2003, Lateralus was certified double platinum by the RIAA. On August 30, 2004 the album was certified Silver by the BPI for sales of 60,000 in the UK. On August 23, 2005, Lateralus was released as a limited edition two-picture-disc vinyl LP in a holographic gatefold package. As with Ænima and Undertow, the album is replete with time signature changes, more then ever. ]]></summary>
+        <content><![CDATA[Lateralus (pronounced /lætərˈælɪs/[2]) is the third studio album by American alternative/progressive metal band Tool. The album was released on May 15, 2001, and debuted at number one on the Billboard 200 chart. On August 5, 2003, Lateralus was certified double platinum by the RIAA. On August 30, 2004 the album was certified Silver by the BPI for sales of 60,000 in the UK. On August 23, 2005, Lateralus was released as a limited edition two-picture-disc vinyl LP in a holographic gatefold package. As with Ænima and Undertow, the album is replete with time signature changes, more then ever.  Overall, Lateralus was critically well received and its complexity provoked many responses akin to what Ryan Rayhil of Spin magazine had to say about the album, calling it a &quot;monolithic puzzlebox&quot;.  Lateralus and the corresponding tours would take Tool a step further toward art-rock and progressive rock territory. Rolling Stone wrote in an attempt to summarize the album that &quot;Drums, bass and guitars move in jarring cycles of hyperhowl and near-silent death march... The prolonged running times of most of Lateralus' thirteen tracks are misleading; the entire album rolls and stomps with suitelike purpose.&quot; Joshua Klein of The A.V. Club in turn expressed his opinion that Lateralus, with its 79-minute running time and relatively complex and long songs — topped by the ten-and-a-half minute music video for &quot;Parabola&quot; — posed a challenge to fans and music programming alike. Drummer Danny Carey said, &quot;The manufacturer would only guarantee us up to 79 minutes... We thought we'd give them two seconds of breathing room.&quot; Carey aspired to create longer songs like those by artists he grew up listening to. The band had segues to place between songs, but had to cut out a lot during the mastering phase. The CD itself was mastered using HDCD technology.  The album was a commercial success in the United States, reaching number one on the U.S. Billboard 200 albums chart in its debut week. Well-received by both fans and most critics, it was named Kerrang!'s album of the year in 2001, and the band received the 2002 Grammy Award for Best Metal Performance for the song &quot;Schism&quot;. During the band's acceptance speech, drummer Carey stated that he would like to thank his parents &quot;for putting up with [him]&quot;, and bassist Justin Chancellor concluded, &quot;I want to thank my dad for doing my mom.&quot;  Digital Dream Door ranked the drumming performance by Danny Carey on the song &quot;Ticks &amp; Leeches&quot; number one on the 100 Greatest Rock Drum Performances, and ranked the whole album number one on their list of the 100 Greatest Drumming Albums.
+        
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]></content>
+      </wiki>
+    </album></lfm>

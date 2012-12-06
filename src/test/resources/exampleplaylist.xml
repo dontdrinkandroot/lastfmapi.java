@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<playlist version="1" xmlns="http://xspf.org/ns/0/">
+	<title>Shoxrocks’s Library Radio</title>
+	<creator>Last.fm</creator>
+	<date>2011-04-02T20:13:51</date>
+	<link rel="http://www.last.fm/expiry">3600</link>
+	<trackList>
+		<track>
+			<location>http://play.last.fm/user/2a8111e7e60259b08f61ab8cc8165fa3.mp3
+			</location>
+			<title>You Decide</title>
+			<identifier>4657850</identifier>
+			<album>Cosmic Experience</album>
+			<creator>Electric Universe</creator>
+			<duration>333000</duration>
+			<image>http://userserve-ak.last.fm/serve/174s/30056361.jpg</image>
+
+			<extension application="http://www.last.fm">
+				<trackauth>08c3b</trackauth>
+				<albumid>2050779</albumid>
+				<artistid>1010620</artistid>
+				<recording>117917278</recording>
+
+				<artistpage>http://www.last.fm/music/Electric+Universe</artistpage>
+				<albumpage>http://www.last.fm/music/Electric+Universe/Cosmic+Experience
+				</albumpage>
+				<trackpage>http://www.last.fm/music/Electric+Universe/_/You+Decide
+				</trackpage>
+				<buyTrackURL></buyTrackURL>
+				<buyAlbumURL></buyAlbumURL>
+				<freeTrackURL></freeTrackURL>
+
+				<explicit>0</explicit>
+				<loved>0</loved>
+				<streamid>407b3084c01f8805</streamid>
+
+			</extension>
+		</track>
+		<track>
+			<location>http://play.last.fm/user/e4d0483302307a41246eff636dbeb18d.mp3
+			</location>
+			<title>From Deep Space</title>
+			<identifier>361232930</identifier>
+			<album>From Deep Space</album>
+			<creator>Phace &amp; Misanthrop</creator>
+			<duration>209000</duration>
+			<image>http://userserve-ak.last.fm/serve/174s/40595893.jpg</image>
+
+			<extension application="http://www.last.fm">
+				<trackauth>f2e9b</trackauth>
+				<albumid>218218139</albumid>
+				<artistid>11479346</artistid>
+				<recording>120437955</recording>
+
+				<artistpage>http://www.last.fm/music/Phace%2B%2526%2BMisanthrop
+				</artistpage>
+				<albumpage>http://www.last.fm/music/Phace%2B%252B%2BMisanthrop/From+Deep+Space
+				</albumpage>
+				<trackpage>http://www.last.fm/music/Phace%2B%2526%2BMisanthrop/_/From+Deep+Space
+				</trackpage>
+				<buyTrackURL></buyTrackURL>
+				<buyAlbumURL></buyAlbumURL>
+				<freeTrackURL></freeTrackURL>
+
+				<explicit>0</explicit>
+				<loved>0</loved>
+				<streamid>b19540e747274c93</streamid>
+
+			</extension>
+		</track>
+		<track>
+			<location>http://play.last.fm/user/c05645bf848533ac090237b3a2bef491.mp3
+			</location>
+			<title>Black Tar Frequencies</title>
+			<identifier>58166783</identifier>
+			<album>Black Tar Prophecies Vol's 1, 2, &amp; 3</album>
+			<creator>Grails</creator>
+			<duration>307000</duration>
+			<image>http://userserve-ak.last.fm/serve/174s/32997193.jpg</image>
+
+			<extension application="http://www.last.fm">
+				<trackauth>9fcb0</trackauth>
+				<albumid>3256691</albumid>
+				<artistid>1240575</artistid>
+				<recording>58166783</recording>
+
+				<artistpage>http://www.last.fm/music/Grails</artistpage>
+				<albumpage>http://www.last.fm/music/Grails/Black%2BTar%2BProphecies%2BVol%2527s%2B1%252C%2B2%252C%2B%2526%2B3
+				</albumpage>
+				<trackpage>http://www.last.fm/music/Grails/_/Black+Tar+Frequencies
+				</trackpage>
+				<buyTrackURL></buyTrackURL>
+				<buyAlbumURL></buyAlbumURL>
+				<freeTrackURL></freeTrackURL>
+
+				<explicit>0</explicit>
+				<loved>0</loved>
+				<streamid>49683e1ce0fd10a1</streamid>
+
+			</extension>
+		</track>
+		<track>
+			<location>http://play.last.fm/user/76a2a631f49e065ee055d2772c239931.mp3
+			</location>
+			<title>My Friend Goo</title>
+			<identifier>1101238</identifier>
+			<album>Goo</album>
+			<creator>Sonic Youth</creator>
+			<duration>139000</duration>
+			<image>http://userserve-ak.last.fm/serve/174s/57997109.png</image>
+
+			<extension application="http://www.last.fm">
+				<trackauth>153e3</trackauth>
+				<albumid>1436449</albumid>
+				<artistid>296</artistid>
+				<recording>121436349</recording>
+
+				<artistpage>http://www.last.fm/music/Sonic+Youth</artistpage>
+				<albumpage>http://www.last.fm/music/Sonic+Youth/Goo</albumpage>
+				<trackpage>http://www.last.fm/music/Sonic+Youth/_/My+Friend+Goo
+				</trackpage>
+				<buyTrackURL></buyTrackURL>
+				<buyAlbumURL></buyAlbumURL>
+				<freeTrackURL></freeTrackURL>
+
+				<explicit>0</explicit>
+				<loved>0</loved>
+				<streamid>a5ce19ed67575e72</streamid>
+
+			</extension>
+		</track>
+		<track>
+			<location>http://play.last.fm/user/c38a8f6f67fea2d9b656271c1270b76a.mp3
+			</location>
+			<title>Cover Me With Kindness</title>
+			<identifier>124062176</identifier>
+			<album>Prayers and Arsons</album>
+			<creator>Impure Wilhelmina</creator>
+			<duration>383000</duration>
+			<image>http://userserve-ak.last.fm/serve/174s/33099489.jpg</image>
+
+			<extension application="http://www.last.fm">
+				<trackauth>aa1a5</trackauth>
+				<albumid>5061338</albumid>
+				<artistid>1299422</artistid>
+				<recording>115294930</recording>
+
+				<artistpage>http://www.last.fm/music/Impure+Wilhelmina</artistpage>
+				<albumpage>http://www.last.fm/music/Impure+Wilhelmina/Prayers+and+Arsons
+				</albumpage>
+				<trackpage>http://www.last.fm/music/Impure+Wilhelmina/_/Cover+Me+With+Kindness
+				</trackpage>
+				<buyTrackURL></buyTrackURL>
+				<buyAlbumURL></buyAlbumURL>
+				<freeTrackURL></freeTrackURL>
+
+				<explicit>0</explicit>
+				<loved>0</loved>
+				<streamid>898db3384fcf8725</streamid>
+
+			</extension>
+		</track>
+	</trackList>
+</playlist>

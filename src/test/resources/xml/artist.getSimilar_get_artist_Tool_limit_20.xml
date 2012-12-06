@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<similarartists artist="Tool">
+<artist>
+    <name>A Perfect Circle</name>
+            <mbid>078a9376-3c04-4280-b7d7-b20e158f345d</mbid>
+        <match>1</match>
+    <url>www.last.fm/music/A+Perfect+Circle</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/139730.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/139730.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/139730.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/139730.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/139730/A+Perfect+Circle.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Puscifer</name>
+            <mbid>6e4277d8-7b64-44a3-b823-13bd15114e22</mbid>
+        <match>0.553452</match>
+    <url>www.last.fm/music/Puscifer</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/24166771.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/24166771.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/24166771.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/24166771.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/_/24166771/Puscifer+Maynardpus4.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Rishloo</name>
+            <mbid>9d07f2ed-7bcf-4c60-86cc-0c29654120a0</mbid>
+        <match>0.389798</match>
+    <url>www.last.fm/music/Rishloo</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/50023513.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/50023513.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/50023513.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/50023513.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/50023513/Rishloo+x_868ee290.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Porcupine Tree</name>
+            <mbid>169c4c28-858e-497b-81a4-8bc15e0026ea</mbid>
+        <match>0.235685</match>
+    <url>www.last.fm/music/Porcupine+Tree</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/25496711.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/25496711.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/25496711.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/25496711.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/25496711/Porcupine+Tree.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Deftones</name>
+            <mbid>7527f6c2-d762-4b88-b5e2-9244f1e34c46</mbid>
+        <match>0.235627</match>
+    <url>www.last.fm/music/Deftones</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/8057433.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/8057433.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/8057433.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/8057433.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/8057433/Deftones.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Kyuss</name>
+            <mbid>ea0f2a37-7007-4217-a812-396227f5013a</mbid>
+        <match>0.223942</match>
+    <url>www.last.fm/music/Kyuss</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/2144104.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/2144104.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/2144104.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/2144104.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/_/2144104/Kyuss.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Nine Inch Nails</name>
+            <mbid>b7ffd2af-418f-4be2-bdd1-22f8b48613da</mbid>
+        <match>0.218287</match>
+    <url>www.last.fm/music/Nine+Inch+Nails</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/20636009.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/20636009.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/20636009.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/20636009.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/20636009/Nine+Inch+Nails.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Indukti</name>
+            <mbid>216de703-21b9-4396-a01f-7927a754c4a7</mbid>
+        <match>0.216827</match>
+    <url>www.last.fm/music/Indukti</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/30765573.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/30765573.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/30765573.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/30765573.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/30765573/Indukti+_wwa3VII2009_mini.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>ASHES dIVIDE</name>
+            <mbid>7acc6c97-2654-4ffa-945f-daeabaa8e5ae</mbid>
+        <match>0.211677</match>
+    <url>www.last.fm/music/ASHES+dIVIDE</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/5380337.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/5380337.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5380337.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/5380337.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/_/5380337/ASHES+dIVIDE+Billy+Howerdel.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Isis</name>
+            <mbid>468036c9-c453-4e8f-bbef-dddfca7495a4</mbid>
+        <match>0.208482</match>
+    <url>www.last.fm/music/Isis</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/60527057.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/60527057.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/60527057.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/60527057.png</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/_/60527057/Isis++PNG.png</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Opeth</name>
+            <mbid>c14b4180-dc87-481e-b17a-64e4150f90f6</mbid>
+        <match>0.199629</match>
+    <url>www.last.fm/music/Opeth</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/66663756.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/66663756.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/66663756.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/66663756.png</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/66663756/Opeth+++2011.png</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Alice in Chains</name>
+            <mbid>4bd95eea-b9f6-4d70-a36c-cfea77431553</mbid>
+        <match>0.196178</match>
+    <url>www.last.fm/music/Alice+in+Chains</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/291059.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/291059.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/291059.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/291059.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/291059/Alice+in+Chains.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Riverside</name>
+            <mbid>077102c2-9dbf-4515-8531-3878461c68b0</mbid>
+        <match>0.181562</match>
+    <url>www.last.fm/music/Riverside</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/74836328.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/74836328.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/74836328.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/74836328.png</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/74836328/Riverside+PNG.png</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Meshuggah</name>
+            <mbid>cf8b3b8c-118e-4136-8d1d-c37091173413</mbid>
+        <match>0.165022</match>
+    <url>www.last.fm/music/Meshuggah</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/47716509.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/47716509.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/47716509.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/47716509.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/47716509/Meshuggah+Mesh.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Peach</name>
+            <mbid>1e4d9343-3907-40a3-8037-9a2721e152b3</mbid>
+        <match>0.164219</match>
+    <url>www.last.fm/music/Peach</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/287901.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/287901.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/287901.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/287901.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/287901/Peach.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Soundgarden</name>
+            <mbid>153c9281-268f-4cf3-8938-f5a4593e5df4</mbid>
+        <match>0.161516</match>
+    <url>www.last.fm/music/Soundgarden</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/128007.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/128007.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/128007.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/128007.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/_/128007/Soundgarden.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Rage Against the Machine</name>
+            <mbid>3798b104-01cb-484c-a3b0-56adc6399b80</mbid>
+        <match>0.157555</match>
+    <url>www.last.fm/music/Rage+Against+the+Machine</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/380903.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/380903.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/380903.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/380903.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/380903/Rage+Against+the+Machine.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Gojira</name>
+            <mbid>1c5efd53-d6b6-4d63-9d22-a15025cf5f07</mbid>
+        <match>0.156424</match>
+    <url>www.last.fm/music/Gojira</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/57892533.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/57892533.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/57892533.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/57892533.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/57892533/Gojira+33735_164798510210556_16479822.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>Mastodon</name>
+            <mbid>89fb7996-5b39-49bb-88aa-546953d1d731</mbid>
+        <match>0.151436</match>
+    <url>www.last.fm/music/Mastodon</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/46549097.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/46549097.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46549097.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/46549097.png</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/46549097/Mastodon+_.png</image>
+    <streamable>1</streamable>
+        </artist>
+<artist>
+    <name>The Mars Volta</name>
+            <mbid>20883363-1ea4-4d72-ad72-c0e767038f3e</mbid>
+        <match>0.14305</match>
+    <url>www.last.fm/music/The+Mars+Volta</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34/29944861.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/29944861.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/29944861.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/29944861.jpg</image>
+    <image size="mega">http://userserve-ak.last.fm/serve/500/29944861/The+Mars+Volta+mars+volta2.jpg</image>
+    <streamable>1</streamable>
+        </artist>
+</similarartists></lfm>

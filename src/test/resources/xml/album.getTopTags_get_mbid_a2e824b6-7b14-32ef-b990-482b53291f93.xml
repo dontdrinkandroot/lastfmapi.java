@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<toptags artist="Tool" album="Lateralus">
+    <tag>
+    <name>albums I own</name> 
+    <count>100</count>
+    <url>http://www.last.fm/tag/albums%20i%20own</url>
+</tag>    <tag>
+    <name>Progressive metal</name> 
+    <count>93</count>
+    <url>http://www.last.fm/tag/progressive%20metal</url>
+</tag>    <tag>
+    <name>Progressive rock</name> 
+    <count>60</count>
+    <url>http://www.last.fm/tag/progressive%20rock</url>
+</tag>    <tag>
+    <name>favourite albums</name> 
+    <count>43</count>
+    <url>http://www.last.fm/tag/favourite%20albums</url>
+</tag>    <tag>
+    <name>metal</name> 
+    <count>39</count>
+    <url>http://www.last.fm/tag/metal</url>
+</tag>    <tag>
+    <name>favorite albums</name> 
+    <count>29</count>
+    <url>http://www.last.fm/tag/favorite%20albums</url>
+</tag>    <tag>
+    <name>tool</name> 
+    <count>22</count>
+    <url>http://www.last.fm/tag/tool</url>
+</tag>    <tag>
+    <name>rock</name> 
+    <count>22</count>
+    <url>http://www.last.fm/tag/rock</url>
+</tag>    <tag>
+    <name>2001</name> 
+    <count>18</count>
+    <url>http://www.last.fm/tag/2001</url>
+</tag>    <tag>
+    <name>alternative metal</name> 
+    <count>17</count>
+    <url>http://www.last.fm/tag/alternative%20metal</url>
+</tag>    <tag>
+    <name>alternative</name> 
+    <count>13</count>
+    <url>http://www.last.fm/tag/alternative</url>
+</tag>    <tag>
+    <name>Masterpiece</name> 
+    <count>12</count>
+    <url>http://www.last.fm/tag/masterpiece</url>
+</tag>    <tag>
+    <name>Progressive</name> 
+    <count>9</count>
+    <url>http://www.last.fm/tag/progressive</url>
+</tag>    <tag>
+    <name>00s</name> 
+    <count>9</count>
+    <url>http://www.last.fm/tag/00s</url>
+</tag>    <tag>
+    <name>alternative rock</name> 
+    <count>6</count>
+    <url>http://www.last.fm/tag/alternative%20rock</url>
+</tag>    <tag>
+    <name>experimental</name> 
+    <count>5</count>
+    <url>http://www.last.fm/tag/experimental</url>
+</tag>    <tag>
+    <name>favorites</name> 
+    <count>5</count>
+    <url>http://www.last.fm/tag/favorites</url>
+</tag>    <tag>
+    <name>hard rock</name> 
+    <count>4</count>
+    <url>http://www.last.fm/tag/hard%20rock</url>
+</tag>    <tag>
+    <name>Maynard James Keenan</name> 
+    <count>4</count>
+    <url>http://www.last.fm/tag/maynard%20james%20keenan</url>
+</tag>    <tag>
+    <name>psychedelic</name> 
+    <count>4</count>
+    <url>http://www.last.fm/tag/psychedelic</url>
+</tag>    <tag>
+    <name>concept album</name> 
+    <count>3</count>
+    <url>http://www.last.fm/tag/concept%20album</url>
+</tag>    <tag>
+    <name>best of 2001</name> 
+    <count>3</count>
+    <url>http://www.last.fm/tag/best%20of%202001</url>
+</tag>    <tag>
+    <name>Awesome</name> 
+    <count>3</count>
+    <url>http://www.last.fm/tag/awesome</url>
+</tag>    <tag>
+    <name>industrial</name> 
+    <count>3</count>
+    <url>http://www.last.fm/tag/industrial</url>
+</tag>    <tag>
+    <name>best albums ever</name> 
+    <count>3</count>
+    <url>http://www.last.fm/tag/best%20albums%20ever</url>
+</tag>    <tag>
+    <name>heavy metal</name> 
+    <count>3</count>
+    <url>http://www.last.fm/tag/heavy%20metal</url>
+</tag>    <tag>
+    <name>best albums</name> 
+    <count>3</count>
+    <url>http://www.last.fm/tag/best%20albums</url>
+</tag>    <tag>
+    <name>prognews</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/prognews</url>
+</tag>    <tag>
+    <name>psychodelic rock</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/psychodelic%20rock</url>
+</tag>    <tag>
+    <name>Perfect Albums</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/perfect%20albums</url>
+</tag>    <tag>
+    <name>Lateralus</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/lateralus</url>
+</tag>    <tag>
+    <name>best</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/best</url>
+</tag>    <tag>
+    <name>Great album</name> 
+    <count>2</count>
+    <url>http://www.last.fm/tag/great%20album</url>
+</tag>    <tag>
+    <name>Favorite Artists</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/favorite%20artists</url>
+</tag>    <tag>
+    <name>fav</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/fav</url>
+</tag>    <tag>
+    <name>american</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/american</url>
+</tag>    <tag>
+    <name>My favourite albums</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/my%20favourite%20albums</url>
+</tag>    <tag>
+    <name>brilliant</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/brilliant</url>
+</tag>    <tag>
+    <name>progressive alternative metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/progressive%20alternative%20metal</url>
+</tag>    <tag>
+    <name>Nu Metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/nu%20metal</url>
+</tag>    <tag>
+    <name>my favorite album</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/my%20favorite%20album</url>
+</tag>    <tag>
+    <name>favorite album</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/favorite%20album</url>
+</tag>    <tag>
+    <name>on cd</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/on%20cd</url>
+</tag>    <tag>
+    <name>my private work station</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/my%20private%20work%20station</url>
+</tag>    <tag>
+    <name>the best stuff</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/the%20best%20stuff</url>
+</tag>    <tag>
+    <name>own on vinyl</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/own%20on%20vinyl</url>
+</tag>    <tag>
+    <name>Top Albums</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/top%20albums</url>
+</tag>    <tag>
+    <name>albums</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/albums</url>
+</tag>    <tag>
+    <name>tool-lateralus</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/tool-lateralus</url>
+</tag>    <tag>
+    <name>records i own</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/records%20i%20own</url>
+</tag>    <tag>
+    <name>art</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/art</url>
+</tag>    <tag>
+    <name>mvr rock radio</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/mvr%20rock%20radio</url>
+</tag>    <tag>
+    <name>2000s</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/2000s</url>
+</tag>    <tag>
+    <name>headbangers ball</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/headbangers%20ball</url>
+</tag>    <tag>
+    <name>male vocalists</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/male%20vocalists</url>
+</tag>    <tag>
+    <name>albums i want to own</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/albums%20i%20want%20to%20own</url>
+</tag>    <tag>
+    <name>Nique</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/nique</url>
+</tag>    <tag>
+    <name>art metal</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/art%20metal</url>
+</tag>    <tag>
+    <name>own</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/own</url>
+</tag>    <tag>
+    <name>h202</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/h202</url>
+</tag>    <tag>
+    <name>1 f4k1n l4v d1s m4n</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/1%20f4k1n%20l4v%20d1s%20m4n</url>
+</tag>    <tag>
+    <name>prog</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/prog</url>
+</tag>    <tag>
+    <name>prog rock</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/prog%20rock</url>
+</tag>    <tag>
+    <name>on security duplicate copy</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/on%20security%20duplicate%20copy</url>
+</tag>    <tag>
+    <name>kappe mela</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/kappe%20mela</url>
+</tag>    <tag>
+    <name>complex</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/complex</url>
+</tag>    <tag>
+    <name>good better nique</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/good%20better%20nique</url>
+</tag>    <tag>
+    <name>favourite</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/favourite</url>
+</tag>    <tag>
+    <name>los angeles</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/los%20angeles</url>
+</tag>    <tag>
+    <name>genius</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/genius</url>
+</tag>    <tag>
+    <name>Psychedelic Rock</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/psychedelic%20rock</url>
+</tag>    <tag>
+    <name>oldies</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/oldies</url>
+</tag>    <tag>
+    <name>kappe fav</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/kappe%20fav</url>
+</tag>    <tag>
+    <name>dark</name> 
+    <count>1</count>
+    <url>http://www.last.fm/tag/dark</url>
+</tag>    <tag>
+    <name>Carpet Crawler</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/carpet%20crawler</url>
+</tag>    <tag>
+    <name>best albums of all time</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/best%20albums%20of%20all%20time</url>
+</tag>    <tag>
+    <name>worst album ever</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/worst%20album%20ever</url>
+</tag>    <tag>
+    <name>InDeCdKast</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/indecdkast</url>
+</tag>    <tag>
+    <name>thrusting rock</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/thrusting%20rock</url>
+</tag>    <tag>
+    <name>deep music</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/deep%20music</url>
+</tag>    <tag>
+    <name>lastfmtopalbums</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/lastfmtopalbums</url>
+</tag>    <tag>
+    <name>looooooVeX</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/loooooovex</url>
+</tag>    <tag>
+    <name>fibonacci sequence ftw</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/fibonacci%20sequence%20ftw</url>
+</tag>    <tag>
+    <name>Desert island albums</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/desert%20island%20albums</url>
+</tag>    <tag>
+    <name>big time rock</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/big%20time%20rock</url>
+</tag>    <tag>
+    <name>kappe alb</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/kappe%20alb</url>
+</tag>    <tag>
+    <name>I could die listening to this</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/i%20could%20die%20listening%20to%20this</url>
+</tag>    <tag>
+    <name>gammarec</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/gammarec</url>
+</tag>    <tag>
+    <name>possessed by varney</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/possessed%20by%20varney</url>
+</tag>    <tag>
+    <name>lets tag this shit</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/lets%20tag%20this%20shit</url>
+</tag>    <tag>
+    <name>Tool - Lateralus</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/tool%20-%20lateralus</url>
+</tag>    <tag>
+    <name>i luv this</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/i%20luv%20this</url>
+</tag>    <tag>
+    <name>Favourite By Artist</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/favourite%20by%20artist</url>
+</tag>    <tag>
+    <name>My Album collection</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/my%20album%20collection</url>
+</tag>    <tag>
+    <name>best fucking album</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/best%20fucking%20album</url>
+</tag>    <tag>
+    <name>smeg</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/smeg</url>
+</tag>    <tag>
+    <name>opus magnum</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/opus%20magnum</url>
+</tag>    <tag>
+    <name>mis albumes favoritos</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/mis%20albumes%20favoritos</url>
+</tag>    <tag>
+    <name>muka muka</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/muka%20muka</url>
+</tag>    <tag>
+    <name>to buy soon</name> 
+    <count>0</count>
+    <url>http://www.last.fm/tag/to%20buy%20soon</url>
+</tag></toptags></lfm>

@@ -1,0 +1,119 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+	<parent>
+		<groupId>net.dontdrinkandroot</groupId>
+		<artifactId>parent</artifactId>
+		<version>2</version>
+	</parent>
+	<modelVersion>4.0.0</modelVersion>
+	<artifactId>lastfmapi</artifactId>
+	<version>0.4.1-SNAPSHOT</version>
+	<description>Java Bindings for the last.fm API</description>
+
+	<developers>
+		<developer>
+			<name>Philip Washington Sorst</name>
+			<url>http://sorst.net</url>
+		</developer>
+	</developers>
+
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
+	<repositories>
+		<repository>
+			<id>public</id>
+			<url>http://maven.dontdrinkandroot.net/content/groups/public</url>
+		</repository>
+	</repositories>
+
+	<scm>
+		<developerConnection>scm:git:https://github.com/philipsorst/lastfmapi.git</developerConnection>
+	</scm>
+
+	<build>
+
+		<plugins>
+
+			<plugin>
+				<groupId>org.apache.maven.plugins</groupId>
+				<artifactId>maven-surefire-plugin</artifactId>
+				<version>${maven-surefire-plugin.version}</version>
+				<configuration>
+					<systemPropertyVariables>
+						<lfm.api.key>${lfm.api.key}</lfm.api.key>
+						<lfm.api.secret>${lfm.api.secret}</lfm.api.secret>
+						<lfm.api.user.name>${lfm.api.user.name}</lfm.api.user.name>
+						<lfm.api.user.password>${lfm.api.user.password}</lfm.api.user.password>
+						<lfm.api.user.subscriber>${lfm.api.user.subscriber}</lfm.api.user.subscriber>
+						<lfm.api.run.authtests>${lfm.api.run.authtests}</lfm.api.run.authtests>
+						<lfm.api.run.posttests>${lfm.api.run.posttests}</lfm.api.run.posttests>
+					</systemPropertyVariables>
+				</configuration>
+			</plugin>
+
+			<!-- TODO: Remove with next parent version -->
+			<plugin>
+				<groupId>com.mycila.maven-license-plugin</groupId>
+				<artifactId>maven-license-plugin</artifactId>
+				<configuration>
+					<header>license.txt</header>
+				</configuration>
+			</plugin>
+
+		</plugins>
+
+	</build>
+
+
+	<dependencies>
+
+		<dependency>
+			<groupId>org.apache.httpcomponents</groupId>
+			<artifactId>httpclient</artifactId>
+		</dependency>
+
+		<dependency>
+			<groupId>net.dontdrinkandroot</groupId>
+			<artifactId>utils</artifactId>
+			<version>0.1.0</version>
+		</dependency>
+
+		<dependency>
+			<groupId>com.melloware</groupId>
+			<artifactId>jspiff</artifactId>
+		</dependency>
+
+		<!-- Test -->
+		<dependency>
+			<groupId>org.ccil.cowan.tagsoup</groupId>
+			<artifactId>tagsoup</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>org.slf4j</groupId>
+			<artifactId>slf4j-log4j12</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>dom4j</groupId>
+			<artifactId>dom4j</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+		<dependency>
+			<groupId>jaxen</groupId>
+			<artifactId>jaxen</artifactId>
+			<scope>test</scope>
+		</dependency>
+
+	</dependencies>
+
+</project>

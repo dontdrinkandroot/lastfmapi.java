@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<artist>
+  <name>Tool</name>
+          <mbid>66fc5bf8-daa4-4241-b378-9bc9077939d2</mbid>
+        <url>http://www.last.fm/music/Tool</url>
+  <image size="small">http://userserve-ak.last.fm/serve/34/53382751.jpg</image>
+  <image size="medium">http://userserve-ak.last.fm/serve/64/53382751.jpg</image>
+  <image size="large">http://userserve-ak.last.fm/serve/126/53382751.jpg</image>
+  <image size="extralarge">http://userserve-ak.last.fm/serve/252/53382751.jpg</image>
+  <image size="mega">http://userserve-ak.last.fm/serve/_/53382751/Tool.jpg</image>
+  <streamable>1</streamable>
+  <stats>
+    <listeners>1432230</listeners>
+    <playcount>91340806</playcount>
+    <userplaycount>740</userplaycount>  </stats>
+
+  <similar>
+	    <artist>
+	  <name>A Perfect Circle</name>
+	  <url>http://www.last.fm/music/A+Perfect+Circle</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/139730.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/139730.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/139730.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/139730.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/139730/A+Perfect+Circle.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Puscifer</name>
+	  <url>http://www.last.fm/music/Puscifer</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/24166771.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/24166771.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/24166771.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/24166771.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/_/24166771/Puscifer+Maynardpus4.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Rishloo</name>
+	  <url>http://www.last.fm/music/Rishloo</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/50023513.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/50023513.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/50023513.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/50023513.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/50023513/Rishloo+x_868ee290.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Porcupine Tree</name>
+	  <url>http://www.last.fm/music/Porcupine+Tree</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/25496711.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/25496711.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/25496711.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/25496711.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/25496711/Porcupine+Tree.jpg</image>
+	  
+	        	</artist>
+    <artist>
+	  <name>Deftones</name>
+	  <url>http://www.last.fm/music/Deftones</url>
+	  <image size="small">http://userserve-ak.last.fm/serve/34/8057433.jpg</image>
+	  <image size="medium">http://userserve-ak.last.fm/serve/64/8057433.jpg</image>
+	  <image size="large">http://userserve-ak.last.fm/serve/126/8057433.jpg</image>
+	  <image size="extralarge">http://userserve-ak.last.fm/serve/252/8057433.jpg</image>
+	  <image size="mega">http://userserve-ak.last.fm/serve/500/8057433/Deftones.jpg</image>
+	  
+	        	</artist>
+  </similar>
+    <tags>
+        <tag>
+	  <name>progressive metal</name>
+	  <url>http://www.last.fm/tag/progressive%20metal</url>
+	</tag>
+        <tag>
+	  <name>progressive rock</name>
+	  <url>http://www.last.fm/tag/progressive%20rock</url>
+	</tag>
+        <tag>
+	  <name>metal</name>
+	  <url>http://www.last.fm/tag/metal</url>
+	</tag>
+        <tag>
+	  <name>alternative</name>
+	  <url>http://www.last.fm/tag/alternative</url>
+	</tag>
+        <tag>
+	  <name>rock</name>
+	  <url>http://www.last.fm/tag/rock</url>
+	</tag>
+      </tags>
+      <bio>
+    <published>Sat, 31 Dec 2011 19:10:59 +0000</published>
+    <summary><![CDATA[Formed around 1990 in Los Angeles, California, United States, by drummer <a href="http://www.last.fm/music/Danny+Carey" class="bbcode_artist">Danny Carey</a>, guitarist <a href="http://www.last.fm/music/Adam+Jones" class="bbcode_artist">Adam Jones</a>, vocalist <a href="http://www.last.fm/music/Maynard+James+Keenan" class="bbcode_artist">Maynard James Keenan</a>, and original bassist <a href="http://www.last.fm/music/Paul+d%27Amour" class="bbcode_artist">Paul d'Amour</a>, Tool is a band that is most noted for combining alternative metal with a wide variety of progressive structures, irregular time signatures and lyrics that range from angry diatribes to meditations on philosophical and social matters.  ]]></summary>
+    <content><![CDATA[Formed around 1990 in Los Angeles, California, United States, by drummer <a href="http://www.last.fm/music/Danny+Carey" class="bbcode_artist">Danny Carey</a>, guitarist <a href="http://www.last.fm/music/Adam+Jones" class="bbcode_artist">Adam Jones</a>, vocalist <a href="http://www.last.fm/music/Maynard+James+Keenan" class="bbcode_artist">Maynard James Keenan</a>, and original bassist <a href="http://www.last.fm/music/Paul+d%27Amour" class="bbcode_artist">Paul d'Amour</a>, Tool is a band that is most noted for combining alternative metal with a wide variety of progressive structures, irregular time signatures and lyrics that range from angry diatribes to meditations on philosophical and social matters.  After performing a handful of shows in the Los Angeles area and up the West Coast, they toured in the United States with <a href="http://www.last.fm/music/Primus" class="bbcode_artist">Primus</a> in the summer of 1992 in support of their EP <a title="Tool - Opiate" href="http://www.last.fm/music/Tool/Opiate" class="bbcode_album">Opiate</a>. Their first full length recording, <a title="Tool - Undertow" href="http://www.last.fm/music/Tool/Undertow" class="bbcode_album">Undertow</a>, was released in 1993.  Emerging with a groovy heavy <a href="http://www.last.fm/tag/industrial" class="bbcode_tag" rel="tag">industrial</a> sound on their first release, when the genre was dominated by post-punk, they were later seen at the top of the industrial <a href="http://www.last.fm/tag/metal" class="bbcode_tag" rel="tag">metal</a> movement with the release of their second full-length studio album <a title="Tool - &AElig;nima" href="http://www.last.fm/music/Tool/%C3%86nima" class="bbcode_album">&AElig;nima</a> in 1996, the first recording the band made after original bassist Paul D’Amour left the band, replaced by <a href="http://www.last.fm/music/Justin+Chancellor" class="bbcode_artist">Justin Chancellor</a>. After an ongoing evolution of their sound and continuous efforts to unify musical experimentation, visual arts, and a message of personal evolution on <a title="Tool - Lateralus" href="http://www.last.fm/music/Tool/Lateralus" class="bbcode_album">Lateralus</a> (2001), their most recent album <a title="Tool - 10,000 Days" href="http://www.last.fm/music/Tool/10,000+Days" class="bbcode_album">10,000 Days</a> (2006), as well as respective tours, they are generally described as a style-transgressing act and part of <a href="http://www.last.fm/tag/progressive" class="bbcode_tag" rel="tag">progressive</a> and <a href="http://www.last.fm/tag/art%20rock" class="bbcode_tag" rel="tag">art rock</a>.  Their aspirational work features exceptionally long or complex releases, controversial lyrics and cover art, and unorthodox music videos, which results in a rather ambivalent relationship between the band and today’s music industry, at times marked by censorship, and the band’s ongoing struggle for privacy.  Nevertheless, Tool has won Grammy Awards and continues to perform worldwide and receive critical acclaim. Lateralus and 10,000 Days both debuted number one on the US Billboard 200 as well as topping the charts in numerous other countries. Between album releases, the band takes extended breaks that allow for collaboration with other artists in designing award-winning album packaging, the creation of elaborate light shows, and band member involvement in notable side-projects.  They currently have 6 major releases:  <a title="Tool - Opiate" href="http://www.last.fm/music/Tool/Opiate" class="bbcode_album">Opiate</a> (1992) <a title="Tool - Undertow" href="http://www.last.fm/music/Tool/Undertow" class="bbcode_album">Undertow</a> (1993) <a href="http://www.last.fm/music/Tool/%C3%86nima">Ænima</a> (1996) <a title="Tool - Salival" href="http://www.last.fm/music/Tool/Salival" class="bbcode_album">Salival</a> (Live) (2000) <a title="Tool - Lateralus" href="http://www.last.fm/music/Tool/Lateralus" class="bbcode_album">Lateralus</a> (2001) <a title="Tool - 10,000 Days" href="http://www.last.fm/music/Tool/10,000+Days" class="bbcode_album">10,000 Days</a> (2006).
+    
+User-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.]]></content>
+  </bio>
+  </artist></lfm>

@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<recenttracks user="shoxrocks" page="1" perPage="10" totalPages="1" total="9" >
+<track> 
+                                    <artist mbid="ac2d1c91-3667-46aa-9fe7-170ca7fce9e2">Godsmack</artist>
+            <name>Now Or Never</name>
+<streamable>1</streamable>
+        <mbid>31c9f5b8-d3cf-4921-81ed-6c2ed8bcb215</mbid>
+            <album mbid="42edca7a-ab97-44bc-8b15-620a9708aabe">Godsmack</album>
+    <url>http://www.last.fm/music/Godsmack/_/Now+Or+Never</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/77727250.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77727250.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77727250.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77727250.png</image>
+        <date uts="1115612682">9 May 2005, 04:24</date>
+</track>
+<track> 
+                                    <artist mbid="ac2d1c91-3667-46aa-9fe7-170ca7fce9e2">Godsmack</artist>
+            <name>Get Up, Get Out!</name>
+<streamable>1</streamable>
+        <mbid>62775bd5-931c-48a8-abef-6cead2464b60</mbid>
+            <album mbid="42edca7a-ab97-44bc-8b15-620a9708aabe">Godsmack</album>
+    <url>http://www.last.fm/music/Godsmack/_/Get+Up,+Get+Out!</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/77727250.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77727250.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77727250.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77727250.png</image>
+        <date uts="1115612422">9 May 2005, 04:20</date>
+</track>
+<track> 
+                                    <artist mbid="ac2d1c91-3667-46aa-9fe7-170ca7fce9e2">Godsmack</artist>
+            <name>Someone In London</name>
+<streamable>1</streamable>
+        <mbid>9fb56246-4cac-4425-b77d-8d5fa874456f</mbid>
+            <album mbid="42edca7a-ab97-44bc-8b15-620a9708aabe">Godsmack</album>
+    <url>http://www.last.fm/music/Godsmack/_/Someone+In+London</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/77727250.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77727250.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77727250.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77727250.png</image>
+        <date uts="1115612253">9 May 2005, 04:17</date>
+</track>
+<track> 
+                                    <artist mbid="ac2d1c91-3667-46aa-9fe7-170ca7fce9e2">Godsmack</artist>
+            <name>Immune</name>
+<streamable>1</streamable>
+        <mbid>371c40c6-73ae-43b9-8714-5894452110ad</mbid>
+            <album mbid="42edca7a-ab97-44bc-8b15-620a9708aabe">Godsmack</album>
+    <url>http://www.last.fm/music/Godsmack/_/Immune</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/77727250.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77727250.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77727250.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77727250.png</image>
+        <date uts="1115612044">9 May 2005, 04:14</date>
+</track>
+<track> 
+                                    <artist mbid="ac2d1c91-3667-46aa-9fe7-170ca7fce9e2">Godsmack</artist>
+            <name>Bad Religion</name>
+<streamable>1</streamable>
+        <mbid>04319eb4-3efa-493e-ba9e-e592441ed77a</mbid>
+            <album mbid="42edca7a-ab97-44bc-8b15-620a9708aabe">Godsmack</album>
+    <url>http://www.last.fm/music/Godsmack/_/Bad+Religion</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/77727250.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77727250.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77727250.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77727250.png</image>
+        <date uts="1115611800">9 May 2005, 04:10</date>
+</track>
+<track> 
+                                    <artist mbid="ac2d1c91-3667-46aa-9fe7-170ca7fce9e2">Godsmack</artist>
+            <name>Time Bomb</name>
+<streamable>0</streamable>
+        <mbid>086891c9-b447-48cf-a632-6b038f7fb272</mbid>
+            <album mbid="42edca7a-ab97-44bc-8b15-620a9708aabe">Godsmack</album>
+    <url>http://www.last.fm/music/Godsmack/_/Time+Bomb</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/77727250.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77727250.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77727250.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77727250.png</image>
+        <date uts="1115611580">9 May 2005, 04:06</date>
+</track>
+<track> 
+                                    <artist mbid="ac2d1c91-3667-46aa-9fe7-170ca7fce9e2">Godsmack</artist>
+            <name>Keep Away</name>
+<streamable>1</streamable>
+        <mbid>1885d44d-e933-438e-8f8d-a0a99acef623</mbid>
+            <album mbid="42edca7a-ab97-44bc-8b15-620a9708aabe">Godsmack</album>
+    <url>http://www.last.fm/music/Godsmack/_/Keep+Away</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/77727250.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77727250.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77727250.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77727250.png</image>
+        <date uts="1115611313">9 May 2005, 04:01</date>
+</track>
+<track> 
+                                    <artist mbid="ac2d1c91-3667-46aa-9fe7-170ca7fce9e2">Godsmack</artist>
+            <name>Whatever</name>
+<streamable>1</streamable>
+        <mbid>14b5aac8-c318-4988-9330-3f94082bc114</mbid>
+            <album mbid="42edca7a-ab97-44bc-8b15-620a9708aabe">Godsmack</album>
+    <url>http://www.last.fm/music/Godsmack/_/Whatever</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/77727250.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/77727250.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/77727250.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/77727250.png</image>
+        <date uts="1115611063">9 May 2005, 03:57</date>
+</track>
+<track> 
+                                    <artist mbid="ac2d1c91-3667-46aa-9fe7-170ca7fce9e2">Godsmack</artist>
+            <name>Moon Baby</name>
+<streamable>1</streamable>
+        <mbid>052d02a6-c499-4f0f-9953-80d4728e126c</mbid>
+            <album mbid="">All Wound Up</album>
+    <url>http://www.last.fm/music/Godsmack/_/Moon+Baby</url>
+    <image size="small">http://userserve-ak.last.fm/serve/34s/4515211.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64s/4515211.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/4515211.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/4515211.jpg</image>
+        <date uts="1115610825">9 May 2005, 03:53</date>
+</track>
+</recenttracks></lfm>

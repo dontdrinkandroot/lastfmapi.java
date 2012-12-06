@@ -1,0 +1,16 @@
+# Rename this file to testconf.properties and fill in the corresponding values
+#
+# the last.fm api key
+apikey =
+# the last.fm api secret 
+apisecret = 
+# the user to test with
+user = 
+# the users password
+password =
+# whether the user is subscriber (bool) 
+subscriber = 
+# whether auth tests should be run
+runauthtests = true
+# whether manipulating auth tests should be run
+runmanipulatingauthtests = false

@@ -1,0 +1,343 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<bannedtracks user="mokele" page="2" perPage="20" totalPages="8" total="159">
+    <track>
+        <name>Standing In The Way Of Control</name>
+                <mbid>0b9947e2-b4b2-4946-ab29-d1f0d40621dd</mbid>
+                            <url>http://www.last.fm/music/Gossip/_/Standing+In+The+Way+Of+Control</url>
+                <date uts="1202046743">3 Feb 2008, 13:52</date>
+                <artist> 
+            <name>Gossip</name>
+                    <mbid>06ff5224-8d47-4154-b947-9fbe8fbd93c0</mbid>
+                            <url>http://www.last.fm/music/Gossip</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/47964191.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/47964191.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/47964191.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/47964191.png</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Step Into Christmas</name>
+                <mbid>086e7dac-400a-4310-9ba6-ef3de69021c3</mbid>
+                            <url>http://www.last.fm/music/Elton+John/_/Step+Into+Christmas</url>
+                <date uts="1202039455">3 Feb 2008, 11:50</date>
+                <artist> 
+            <name>Elton John</name>
+                    <mbid>334c2c2c-2ae3-4b69-8f38-167d07f83d25</mbid>
+                            <url>http://www.last.fm/music/Elton+John</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/80759727.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/80759727.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/80759727.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/80759727.png</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Fancy</name>
+                <mbid>31034636-6d8f-4738-8d8a-8679a188b56b</mbid>
+                            <url>http://www.last.fm/music/Yeah+Yeah+Yeahs/_/Fancy</url>
+                <date uts="1202035434">3 Feb 2008, 10:43</date>
+                <artist> 
+            <name>Yeah Yeah Yeahs</name>
+                    <mbid>584c04d2-4acc-491b-8a0a-e63133f4bfc4</mbid>
+                            <url>http://www.last.fm/music/Yeah+Yeah+Yeahs</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/51389051.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/51389051.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/51389051.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/51389051.png</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Devilution</name>
+                <mbid>023f1e26-37a0-4d3e-82a9-81fc57a370d1</mbid>
+                            <url>http://www.last.fm/music/High+on+Fire/_/Devilution</url>
+                <date uts="1201959143">2 Feb 2008, 13:32</date>
+                <artist> 
+            <name>High on Fire</name>
+                    <mbid>720249d5-62c5-4679-8ead-dcda3329d6e7</mbid>
+                            <url>http://www.last.fm/music/High+on+Fire</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/9894181.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/9894181.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/9894181.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/9894181.jpg</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Back in Black</name>
+                <mbid>01828a48-2751-4020-9da4-3728db1aef90</mbid>
+                            <url>http://www.last.fm/music/AC%2FDC/_/Back+in+Black</url>
+                <date uts="1201192083">24 Jan 2008, 16:28</date>
+                <artist> 
+            <name>AC/DC</name>
+                    <mbid>66c662b6-6e2f-4930-8610-912e24c63ed1</mbid>
+                            <url>http://www.last.fm/music/AC%2FDC</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/23670105.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/23670105.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/23670105.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/23670105.jpg</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Back in the U.S.S.R.</name>
+                <mbid>00bf1178-490f-4444-86e4-bedc13de2963</mbid>
+                            <url>http://www.last.fm/music/The+Beatles/_/Back+in+the+U.S.S.R.</url>
+                <date uts="1201188097">24 Jan 2008, 15:21</date>
+                <artist> 
+            <name>The Beatles</name>
+                    <mbid>b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d</mbid>
+                            <url>http://www.last.fm/music/The+Beatles</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/58427243.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/58427243.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/58427243.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/58427243.png</image>
+                <streamable fulltrack="0">0</streamable>
+    </track>
+    <track>
+        <name>Detouring America With Horns</name>
+                <mbid>5a00b528-1c5f-40e8-a08e-bce863cf6811</mbid>
+                            <url>http://www.last.fm/music/Yo+La+Tengo/_/Detouring+America+With+Horns</url>
+                <date uts="1199725935">7 Jan 2008, 17:12</date>
+                <artist> 
+            <name>Yo La Tengo</name>
+                    <mbid>2af759f4-4c48-49eb-a512-ae463c40b99a</mbid>
+                            <url>http://www.last.fm/music/Yo+La+Tengo</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/42338923.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/42338923.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/42338923.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/42338923.jpg</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Blood on Our Hands</name>
+                <mbid>0bb3c7f5-0207-456f-b638-e2ab2065e216</mbid>
+                            <url>http://www.last.fm/music/Death+From+Above+1979/_/Blood+on+Our+Hands</url>
+                <date uts="1197373338">11 Dec 2007, 11:42</date>
+                <artist> 
+            <name>Death From Above 1979</name>
+                    <mbid>92dc699f-fcbc-4278-afbe-40b5ad060a55</mbid>
+                            <url>http://www.last.fm/music/Death+From+Above+1979</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/72446660.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/72446660.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/72446660.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/72446660.png</image>
+                <streamable fulltrack="0">0</streamable>
+    </track>
+    <track>
+        <name>Romantic Rights</name>
+                <mbid>04a3c7c5-4748-47ac-b27c-23306358ab68</mbid>
+                            <url>http://www.last.fm/music/Death+From+Above+1979/_/Romantic+Rights</url>
+                <date uts="1196676055">3 Dec 2007, 10:00</date>
+                <artist> 
+            <name>Death From Above 1979</name>
+                    <mbid>92dc699f-fcbc-4278-afbe-40b5ad060a55</mbid>
+                            <url>http://www.last.fm/music/Death+From+Above+1979</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/72446660.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/72446660.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/72446660.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/72446660.png</image>
+                <streamable fulltrack="0">0</streamable>
+    </track>
+    <track>
+        <name>I'm a Wheel</name>
+                <mbid>00744fa3-49c4-4d15-bea7-5fc67272ed9f</mbid>
+                            <url>http://www.last.fm/music/Wilco/_/I%27m+a+Wheel</url>
+                <date uts="1195667209">21 Nov 2007, 17:46</date>
+                <artist> 
+            <name>Wilco</name>
+                    <mbid>9e53f84d-ef44-4c16-9677-5fd4d78cbd7d</mbid>
+                            <url>http://www.last.fm/music/Wilco</url>
+        </artist>
+                        <image size="small">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        <image size="medium">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        <image size="large">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+        <image size="extralarge">http://cdn.last.fm/flatness/catalogue/noimage/2/default_album_medium.png</image>
+                <streamable fulltrack="0">0</streamable>
+    </track>
+    <track>
+        <name>Leave It Alone</name>
+                <mbid>1955a22c-771d-4e69-8774-68ddb023caa1</mbid>
+                            <url>http://www.last.fm/music/Operator+Please/_/Leave+It+Alone</url>
+                <date uts="1195666026">21 Nov 2007, 17:27</date>
+                <artist> 
+            <name>Operator Please</name>
+                    <mbid>fb6f10d0-8ee4-4f8f-8e0e-5e797fe9d699</mbid>
+                            <url>http://www.last.fm/music/Operator+Please</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/9972967.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/9972967.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/9972967.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/9972967.jpg</image>
+                <streamable fulltrack="0">0</streamable>
+    </track>
+    <track>
+        <name>Be Still My Heart</name>
+                <mbid>72b68cfb-9f86-4ada-8e93-b52b4d10a194</mbid>
+                            <url>http://www.last.fm/music/The+Postal+Service/_/Be+Still+My+Heart</url>
+                <date uts="1195494258">19 Nov 2007, 17:44</date>
+                <artist> 
+            <name>The Postal Service</name>
+                    <mbid>299278d3-25dd-4f30-bae4-5b571c28034d</mbid>
+                            <url>http://www.last.fm/music/The+Postal+Service</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/4263419.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/4263419.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/4263419.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/4263419.jpg</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Spoonful of Sugar</name>
+                <mbid>a1970861-b7c1-4ea5-b59a-a9728280daa3</mbid>
+                            <url>http://www.last.fm/music/of+Montreal/_/Spoonful+of+Sugar</url>
+                <date uts="1195493992">19 Nov 2007, 17:39</date>
+                <artist> 
+            <name>of Montreal</name>
+                    <mbid>8475297d-fb78-4630-8d74-9b87b6bb7cc8</mbid>
+                            <url>http://www.last.fm/music/of+Montreal</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/74365654.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/74365654.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/74365654.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/74365654.png</image>
+                <streamable fulltrack="0">0</streamable>
+    </track>
+    <track>
+        <name>Like a Pen</name>
+                <mbid>8f4bdf02-78eb-477e-abca-f2368badbf5b</mbid>
+                            <url>http://www.last.fm/music/The+Knife/_/Like+a+Pen</url>
+                <date uts="1195217492">16 Nov 2007, 12:51</date>
+                <artist> 
+            <name>The Knife</name>
+                    <mbid>737286bc-1b92-41c3-82f9-3573abc5378b</mbid>
+                            <url>http://www.last.fm/music/The+Knife</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/62079611.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/62079611.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/62079611.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/62079611.png</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Round Round</name>
+                <mbid>01fa1518-0d17-40dc-91fb-6ed920c5fcf7</mbid>
+                            <url>http://www.last.fm/music/Sugababes/_/Round+Round</url>
+                <date uts="1195144793">15 Nov 2007, 16:39</date>
+                <artist> 
+            <name>Sugababes</name>
+                    <mbid>dfa715ac-b536-44df-af43-570d3ea3edec</mbid>
+                            <url>http://www.last.fm/music/Sugababes</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/68675956.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/68675956.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/68675956.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/68675956.png</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Heartbeats</name>
+                <mbid>25e4be39-206d-484e-aea3-0871dcf4fad2</mbid>
+                            <url>http://www.last.fm/music/The+Knife/_/Heartbeats</url>
+                <date uts="1195143589">15 Nov 2007, 16:19</date>
+                <artist> 
+            <name>The Knife</name>
+                    <mbid>737286bc-1b92-41c3-82f9-3573abc5378b</mbid>
+                            <url>http://www.last.fm/music/The+Knife</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/42446651.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/42446651.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/42446651.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/42446651.png</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Who Could Win a Rabbit</name>
+                <mbid>1f8ffebf-3b3e-4304-9f8f-5e1f67376d54</mbid>
+                            <url>http://www.last.fm/music/Animal+Collective/_/Who+Could+Win+a+Rabbit</url>
+                <date uts="1193829892">31 Oct 2007, 11:24</date>
+                <artist> 
+            <name>Animal Collective</name>
+                    <mbid>0c751690-c784-4a4f-b1e4-c1de27d47581</mbid>
+                            <url>http://www.last.fm/music/Animal+Collective</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/44960391.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/44960391.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/44960391.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/44960391.png</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+    <track>
+        <name>Human</name>
+                <mbid>012a480a-3a1b-451d-9fcc-e3f78d00e439</mbid>
+                            <url>http://www.last.fm/music/The+Human+League/_/Human</url>
+                <date uts="1193828715">31 Oct 2007, 11:05</date>
+                <artist> 
+            <name>The Human League</name>
+                    <mbid>7adaabfb-acfb-47bc-8c7c-59471c2f0db8</mbid>
+                            <url>http://www.last.fm/music/The+Human+League</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/21185729.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/21185729.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/21185729.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/21185729.jpg</image>
+                <streamable fulltrack="0">0</streamable>
+    </track>
+    <track>
+        <name>A Ribbon</name>
+                <mbid>0c60ad20-d59e-4533-ab25-8f55387105d8</mbid>
+                            <url>http://www.last.fm/music/Devendra+Banhart/_/A+Ribbon</url>
+                <date uts="1193828495">31 Oct 2007, 11:01</date>
+                <artist> 
+            <name>Devendra Banhart</name>
+                    <mbid>0110e63e-0a9b-4818-af8e-41e180c20b9a</mbid>
+                            <url>http://www.last.fm/music/Devendra+Banhart</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/55247933.png</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/55247933.png</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/55247933.png</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/55247933.png</image>
+                <streamable fulltrack="0">0</streamable>
+    </track>
+    <track>
+        <name>Pit Of Zombies</name>
+                <mbid>4786c5b1-a927-4bac-aed4-1bd112f7d791</mbid>
+                            <url>http://www.last.fm/music/Cannibal+Corpse/_/Pit+Of+Zombies</url>
+                <date uts="1193827208">31 Oct 2007, 10:40</date>
+                <artist> 
+            <name>Cannibal Corpse</name>
+                    <mbid>af8e4cc5-ef54-458d-a194-7b210acf638f</mbid>
+                            <url>http://www.last.fm/music/Cannibal+Corpse</url>
+        </artist>
+                        <image size="small">http://userserve-ak.last.fm/serve/34s/33364845.jpg</image>
+        <image size="medium">http://userserve-ak.last.fm/serve/64s/33364845.jpg</image>
+        <image size="large">http://userserve-ak.last.fm/serve/126/33364845.jpg</image>
+        <image size="extralarge">http://userserve-ak.last.fm/serve/300x300/33364845.jpg</image>
+                <streamable fulltrack="0">1</streamable>
+    </track>
+</bannedtracks></lfm>

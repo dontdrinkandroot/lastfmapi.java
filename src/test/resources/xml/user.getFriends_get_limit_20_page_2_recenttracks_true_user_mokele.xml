@@ -1,0 +1,613 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+
+    Copyright (C) 2012 Philip W. Sorst <philip@sorst.net>
+    and individual contributors as indicated
+    by the @authors tag.
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+
+-->
+<lfm status="ok">
+<friends for="mokele" page="2" perPage="20" totalPages="10" total="200">
+<user>
+    <name>Katie-boo</name>
+    <realname></realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/17555627.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/17555627.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/17555627.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/17555627.jpg</image>
+    <url>http://www.last.fm/user/Katie-boo</url>
+        
+    
+        
+            <recenttrack date="">
+                <artist>
+            <name>Tears for Fears</name>
+            <mbid>7c7f9c94-dee8-4903-892b-6cf44652e2de</mbid>
+            <url>http://www.last.fm/music/Tears+for+Fears</url>
+        </artist>
+                <album>
+            <name>Tears Roll Down (Greatest Hits 82-92)</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Tears+For+Fears/Tears+Roll+Down+%28Greatest+Hits+82-92%29</url>
+        </album>
+        <name>Woman In Chains</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Tears+for+Fears/_/Woman+In+Chains</url>
+    </recenttrack>
+    </user><user>
+    <name>Emareo</name>
+    <realname>Emma</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/46282707.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/46282707.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/46282707.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/46282707.jpg</image>
+    <url>http://www.last.fm/user/Emareo</url>
+        
+    
+        
+            <recenttrack date="">
+                <artist>
+            <name>Veet Vichara &amp; Premanjali</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Veet%2BVichara%2B%2526%2BPremanjali</url>
+        </artist>
+                <album>
+            <name>Secret Sounds</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Veet%2BVichara%2B%2526%2BPremanjali/Secret+Sounds</url>
+        </album>
+        <name>Om Mani Padme Hum</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Veet%2BVichara%2B%2526%2BPremanjali/_/Om+Mani+Padme+Hum</url>
+    </recenttrack>
+    </user><user>
+    <name>awesomeabyss</name>
+    <realname>Asu Ceren</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/63109251.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/63109251.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/63109251.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/63109251.jpg</image>
+    <url>http://www.last.fm/user/awesomeabyss</url>
+        
+    
+            <scrobblesource>
+        <name>AS Plugin</name>
+        <image></image>
+        <url></url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>Xploding Plastix</name>
+            <mbid>b1fedd29-577d-45b1-95a7-d477f0fb6bd5</mbid>
+            <url>http://www.last.fm/music/Xploding+Plastix</url>
+        </artist>
+                <album>
+            <name>Treated Timber Resist Rot</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Xploding+Plastix/Treated+Timber+Resist+Rot</url>
+        </album>
+        <name>The full graft</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Xploding+Plastix/_/The+full+graft</url>
+    </recenttrack>
+    </user><user>
+    <name>raggedhalo</name>
+    <realname>Joe R</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/905705.png</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/905705.png</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/905705.png</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/905705.png</image>
+    <url>http://www.last.fm/user/raggedhalo</url>
+        
+    
+            <scrobblesource>
+        <name>Songbird</name>
+        <image></image>
+        <url>http://getsongbird.com/</url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>Coheed and Cambria</name>
+            <mbid>ae1b47d5-5128-431c-9d30-e08fd90e0767</mbid>
+            <url>http://www.last.fm/music/Coheed+and+Cambria</url>
+        </artist>
+                <album>
+            <name>In Keeping Secrets Of Silent Earth: 3</name>
+            <mbid>5f49975f-190b-485f-a87c-fb7ef0cd6636</mbid>
+            <url>http://www.last.fm/music/Coheed+and+Cambria/In+Keeping+Secrets+Of+Silent+Earth%3A+3</url>
+        </album>
+        <name>Blood Red Summer</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Coheed+and+Cambria/_/Blood+Red+Summer</url>
+    </recenttrack>
+    </user><user>
+    <name>muz</name>
+    <realname>Muz</realname>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+    <image size="extralarge"></image>
+    <url>http://www.last.fm/user/muz</url>
+        
+    
+            <scrobblesource>
+        <name>AS Plugin</name>
+        <image></image>
+        <url></url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>The Source</name>
+            <mbid>080c9809-0542-4ed1-aaa0-4502242c3e7f</mbid>
+            <url>http://www.last.fm/music/The+Source</url>
+        </artist>
+                <album>
+            <name></name>
+            <mbid></mbid>
+            <url></url>
+        </album>
+        <name>You Got the Love (electro|headz remix) (feat. Candi Station)</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/The+Source/_/You+Got+the+Love+%28electro%7Cheadz+remix%29+%28feat.+Candi+Station%29</url>
+    </recenttrack>
+    </user><user>
+    <name>SetThingsOnFire</name>
+    <realname></realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/18628025.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/18628025.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/18628025.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/18628025.jpg</image>
+    <url>http://www.last.fm/user/SetThingsOnFire</url>
+        
+    
+        
+            <recenttrack date="">
+                <artist>
+            <name>Fanfarlo</name>
+            <mbid>91f909a4-809a-47a7-b15f-94d6878b06cb</mbid>
+            <url>http://www.last.fm/music/Fanfarlo</url>
+        </artist>
+                <album>
+            <name></name>
+            <mbid></mbid>
+            <url></url>
+        </album>
+        <name>Harold T. Wilkins or How To Wait For A Very Long Time</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Fanfarlo/_/Harold+T.+Wilkins+or+How+To+Wait+For+A+Very+Long+Time</url>
+    </recenttrack>
+    </user><user>
+    <name>cinnamonfiregum</name>
+    <realname></realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/1370069.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/1370069.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/1370069.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/1370069.jpg</image>
+    <url>http://www.last.fm/user/cinnamonfiregum</url>
+        
+    
+        
+            <recenttrack date="">
+                <artist>
+            <name>Cymbals Eat Guitars</name>
+            <mbid>3e0e78e8-cf0c-46e3-84fe-555a3e8ad4d4</mbid>
+            <url>http://www.last.fm/music/Cymbals+Eat+Guitars</url>
+        </artist>
+                <album>
+            <name>Why There are Mountains</name>
+            <mbid>c84fef2a-6d6c-4fed-a816-82070c606f8d</mbid>
+            <url>http://www.last.fm/music/Cymbals+Eat+Guitars/Why+There+are+Mountains</url>
+        </album>
+        <name>Some Trees</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Cymbals+Eat+Guitars/_/Some+Trees</url>
+    </recenttrack>
+    </user><user>
+    <name>HawkeVIPER</name>
+    <realname>Miss Ann Thrope</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/5548999.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/5548999.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/5548999.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/5548999.jpg</image>
+    <url>http://www.last.fm/user/HawkeVIPER</url>
+        
+    
+            <scrobblesource>
+        <name>Spotify</name>
+        <image></image>
+        <url>http://www.spotify.com/</url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>Ladyhawke</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Ladyhawke</url>
+        </artist>
+                <album>
+            <name>Ladyhawke</name>
+            <mbid>2187c3f3-1458-4bcf-b737-06cd17968095</mbid>
+            <url>http://www.last.fm/music/Ladyhawke/Ladyhawke</url>
+        </album>
+        <name>My Delirium</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Ladyhawke/_/My+Delirium</url>
+    </recenttrack>
+    </user><user>
+    <name>thiscyclamen</name>
+    <realname></realname>
+    <image size="small"></image>
+    <image size="medium"></image>
+    <image size="large"></image>
+    <image size="extralarge"></image>
+    <url>http://www.last.fm/user/thiscyclamen</url>
+        
+    
+        
+            <recenttrack date="">
+                <artist>
+            <name>Cyclamen</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Cyclamen</url>
+        </artist>
+                <album>
+            <name>Senjyu</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Cyclamen/Senjyu</url>
+        </album>
+        <name>Senjyu</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Cyclamen/_/Senjyu</url>
+    </recenttrack>
+    </user><user>
+    <name>mirrormike</name>
+    <realname>Michael King</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/52208903.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/52208903.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/52208903.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/52208903.jpg</image>
+    <url>http://www.last.fm/user/mirrormike</url>
+        
+    
+            <scrobblesource>
+        <name>AS Plugin</name>
+        <image></image>
+        <url></url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>Bon Iver</name>
+            <mbid>437a0e49-c6ae-42f6-a6c1-84f25ed366bc</mbid>
+            <url>http://www.last.fm/music/Bon+Iver</url>
+        </artist>
+                <album>
+            <name></name>
+            <mbid></mbid>
+            <url></url>
+        </album>
+        <name>Hinnom, TX</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Bon+Iver/_/Hinnom%2C+TX</url>
+    </recenttrack>
+    </user><user>
+    <name>arrdis</name>
+    <realname>Ingrid</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/1384629.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/1384629.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/1384629.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/1384629.jpg</image>
+    <url>http://www.last.fm/user/arrdis</url>
+        
+    
+            <scrobblesource>
+        <name>AS Plugin</name>
+        <image></image>
+        <url></url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>The Velvet Underground</name>
+            <mbid>94b0fb9d-a066-4823-b2ec-af1d324bcfcf</mbid>
+            <url>http://www.last.fm/music/The+Velvet+Underground</url>
+        </artist>
+                <album>
+            <name>Loaded: Fully Loaded Edition (disc 1)</name>
+            <mbid>eaedc72d-37d5-43a3-af72-717c38a6c89f</mbid>
+            <url>http://www.last.fm/music/The+Velvet+Underground/Loaded%3A+Fully+Loaded+Edition+%28disc+1%29</url>
+        </album>
+        <name>Who Loves the Sun</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/The+Velvet+Underground/_/Who+Loves+the+Sun</url>
+    </recenttrack>
+    </user><user>
+    <name>djliquiduk</name>
+    <realname>Attila Györffy</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/50283433.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/50283433.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/50283433.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/50283433.jpg</image>
+    <url>http://www.last.fm/user/djliquiduk</url>
+        
+    
+            <scrobblesource>
+        <name>Bowtie</name>
+        <image></image>
+        <url>http://bowtieapp.com</url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>Fresh</name>
+            <mbid>77049387-0580-4a3a-a05f-d12b5d6b5042</mbid>
+            <url>http://www.last.fm/music/+noredirect/Fresh</url>
+        </artist>
+                <album>
+            <name>Future Jungle EP</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Fresh/Future+Jungle+EP</url>
+        </album>
+        <name>The Gatekeeper</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/+noredirect/Fresh/_/The+Gatekeeper</url>
+    </recenttrack>
+    </user><user>
+    <name>RUPERT</name>
+    <realname></realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/34634105.gif</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/34634105.gif</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/34634105.gif</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/34634105.gif</image>
+    <url>http://www.last.fm/user/RUPERT</url>
+        
+    
+            <scrobblesource>
+        <name>AS Plugin</name>
+        <image></image>
+        <url></url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>Versalife</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Versalife</url>
+        </artist>
+                <album>
+            <name></name>
+            <mbid></mbid>
+            <url></url>
+        </album>
+        <name>Aurora Strain</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Versalife/_/Aurora+Strain</url>
+    </recenttrack>
+    </user><user>
+    <name>jonocole</name>
+    <realname>Jono Cole</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/2601282.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/2601282.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/2601282.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/2601282.jpg</image>
+    <url>http://www.last.fm/user/jonocole</url>
+        
+    
+            <scrobblesource>
+        <name>Spotify</name>
+        <image></image>
+        <url>http://www.spotify.com/</url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>The Glitch Mob</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/The+Glitch+Mob</url>
+        </artist>
+                <album>
+            <name>Drink The Sea</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/The+Glitch+Mob/Drink+The+Sea</url>
+        </album>
+        <name>Fistful Of Silence</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/The+Glitch+Mob/_/Fistful+Of+Silence</url>
+    </recenttrack>
+    </user><user>
+    <name>nancyvw</name>
+    <realname>Nancy Walker</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/13608711.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/13608711.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/13608711.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/13608711.jpg</image>
+    <url>http://www.last.fm/user/nancyvw</url>
+        
+    
+            <scrobblesource>
+        <name>The Last.fm Desktop Client</name>
+        <image>http://userserve-ak.last.fm/serve/34/47524511.png</image>
+        <url></url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>Joss Stone</name>
+            <mbid>dbbc47a5-1338-4830-9298-a8d0b11c0a46</mbid>
+            <url>http://www.last.fm/music/Joss+Stone</url>
+        </artist>
+                <album>
+            <name>Mind Body &amp; Soul</name>
+            <mbid>9376f1a2-c1ec-43fc-94a0-2fa99f2b4cc0</mbid>
+            <url>http://www.last.fm/music/Joss+Stone/Mind%2BBody%2B%2526%2BSoul</url>
+        </album>
+        <name>Right To Be Wrong</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Joss+Stone/_/Right+To+Be+Wrong</url>
+    </recenttrack>
+    </user><user>
+    <name>grindthemall</name>
+    <realname>Marc</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/55110913.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/55110913.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/55110913.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/55110913.jpg</image>
+    <url>http://www.last.fm/user/grindthemall</url>
+        
+    
+            <scrobblesource>
+        <name>AS Plugin</name>
+        <image></image>
+        <url></url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>S:T Erik</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/S%3AT+Erik</url>
+        </artist>
+                <album>
+            <name>From Under the Tarn</name>
+            <mbid>d48082af-f6b2-4eec-a944-8565b7aa101a</mbid>
+            <url>http://www.last.fm/music/S%3AT+Erik/From+Under+the+Tarn</url>
+        </album>
+        <name>Your Highness</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/S%3AT+Erik/_/Your+Highness</url>
+    </recenttrack>
+    </user><user>
+    <name>captainraymond</name>
+    <realname>Daniel F</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/34352935.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/34352935.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/34352935.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/34352935.jpg</image>
+    <url>http://www.last.fm/user/captainraymond</url>
+        
+    
+        
+            <recenttrack date="">
+                <artist>
+            <name>Embrace</name>
+            <mbid>77f049ad-f469-4ad1-8283-7a2606a6722e</mbid>
+            <url>http://www.last.fm/music/Embrace</url>
+        </artist>
+                <album>
+            <name>Dry Kids (B-Sides 1997 - 2005)</name>
+            <mbid>28d2c39d-a002-4a6c-8ca3-a5e243c4d7a2</mbid>
+            <url>http://www.last.fm/music/Embrace/Dry+Kids+%28B-Sides+1997+-+2005%29</url>
+        </album>
+        <name>The Way I Do</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Embrace/_/The+Way+I+Do</url>
+    </recenttrack>
+    </user><user>
+    <name>dasfessey</name>
+    <realname>Steven Fessey</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/49283601.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/49283601.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/49283601.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/49283601.jpg</image>
+    <url>http://www.last.fm/user/dasfessey</url>
+        
+    
+            <scrobblesource>
+        <name>Spotify</name>
+        <image></image>
+        <url>http://www.spotify.com/</url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>Kanye West</name>
+            <mbid>164f0d73-1234-4e2c-8743-d77bf2191051</mbid>
+            <url>http://www.last.fm/music/Kanye+West</url>
+        </artist>
+                <album>
+            <name></name>
+            <mbid></mbid>
+            <url></url>
+        </album>
+        <name>Monster</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Kanye+West/_/Monster</url>
+    </recenttrack>
+    </user><user>
+    <name>Daniel1986</name>
+    <realname>Dan Sleath</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/57884105.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/57884105.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/57884105.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/57884105.jpg</image>
+    <url>http://www.last.fm/user/Daniel1986</url>
+        
+    
+            <scrobblesource>
+        <name>Last.fm Flash Clienttt</name>
+        <image>http://userserve-ak.last.fm/serve/34/6252899.gif</image>
+        <url></url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>Washed Out</name>
+            <mbid></mbid>
+            <url>http://www.last.fm/music/Washed+Out</url>
+        </artist>
+                <album>
+            <name></name>
+            <mbid></mbid>
+            <url></url>
+        </album>
+        <name>Amor Fati</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Washed+Out/_/Amor+Fati</url>
+    </recenttrack>
+    </user><user>
+    <name>GuitarInMySleep</name>
+    <realname>Doug</realname>
+    <image size="small">http://userserve-ak.last.fm/serve/34/7735823.jpg</image>
+    <image size="medium">http://userserve-ak.last.fm/serve/64/7735823.jpg</image>
+    <image size="large">http://userserve-ak.last.fm/serve/126/7735823.jpg</image>
+    <image size="extralarge">http://userserve-ak.last.fm/serve/252/7735823.jpg</image>
+    <url>http://www.last.fm/user/GuitarInMySleep</url>
+        
+    
+            <scrobblesource>
+        <name>AS Plugin</name>
+        <image></image>
+        <url></url>
+    </scrobblesource>
+    
+            <recenttrack date="">
+                <artist>
+            <name>Pitbull</name>
+            <mbid>d262ea27-3ffe-40f7-b922-85c42d625e67</mbid>
+            <url>http://www.last.fm/music/Pitbull</url>
+        </artist>
+                <album>
+            <name></name>
+            <mbid></mbid>
+            <url></url>
+        </album>
+        <name>Hey Baby (Drop It to the Floor) [Alvaro Remix]</name>
+        <mbid></mbid>
+        <url>http://www.last.fm/music/Pitbull/_/Hey+Baby+%28Drop+It+to+the+Floor%29+%5BAlvaro+Remix%5D</url>
+    </recenttrack>
+    </user></friends></lfm>

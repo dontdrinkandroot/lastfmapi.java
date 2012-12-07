@@ -29,7 +29,7 @@ public class AuthTest extends AbstractModelTest {
 	 * Test {@link Auth#getMobileSession}.
 	 */
 	@Test
-	public final void testAuthGetMobileSession() throws LastfmWebServicesException {
+	public final void testGetMobileSession() throws LastfmWebServicesException {
 
 		Assume.assumeTrue(AbstractModelTest.getTestConf().runAuthTests());
 

@@ -62,7 +62,7 @@ public class TrackTest extends AbstractModelTest {
 	 * Test {@link Track#getInfo}.
 	 */
 	@Test
-	public final void testTrackGetInfo() throws LastfmWebServicesException {
+	public final void testGetInfo() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Track.getInfo(null, null, null, null),
@@ -97,7 +97,7 @@ public class TrackTest extends AbstractModelTest {
 	 * Test {@link Track#getSimilar}.
 	 */
 	@Test
-	public final void testTrackGetSimilar() throws LastfmWebServicesException {
+	public final void testGetSimilar() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Track.getSimilar(null, null, null, null, null),

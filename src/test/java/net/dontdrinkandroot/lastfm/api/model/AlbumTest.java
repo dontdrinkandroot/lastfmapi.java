@@ -18,6 +18,7 @@
 package net.dontdrinkandroot.lastfm.api.model;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
@@ -27,6 +28,7 @@ import net.dontdrinkandroot.lastfm.api.model.paginatedresult.PaginatedResult;
 import net.dontdrinkandroot.utils.ISO_3166_1_alpha2;
 
 import org.junit.Assume;
+import org.junit.Ignore;
 import org.junit.Test;
 
 
@@ -34,12 +36,12 @@ public class AlbumTest extends AbstractModelTest {
 
 	/**
 	 * Test {@link Album#addTags(String, String, String, String)}, this is actually performed by
-	 * {@link AlbumTest#testAlbumAddRemoveGetTags()}
+	 * {@link AlbumTest#testAddRemoveGetTags()}
 	 * 
 	 * @throws Exception
 	 */
 	@Test
-	public final void testAlbumAddTags() {
+	public final void testAddTags() {
 
 		this.assertMissingParameter(
 				Album.addTags(null, null, null, null),
@@ -53,7 +55,7 @@ public class AlbumTest extends AbstractModelTest {
 	 * {@link Album#getTags()}.
 	 */
 	@Test
-	public final void testAlbumAddRemoveGetTags() throws LastfmWebServicesException {
+	public final void testAddRemoveGetTags() throws LastfmWebServicesException {
 
 		Assume.assumeTrue(AbstractModelTest.getTestConf().runManipulatingAuthTests());
 
@@ -137,7 +139,7 @@ public class AlbumTest extends AbstractModelTest {
 	 * Test {@link Album#getBuylinks}.
 	 */
 	@Test
-	public final void testAlbumGetBuylinks() throws LastfmWebServicesException {
+	public final void testGetBuylinks() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Album.getBuylinks(null, null, null, null),
@@ -151,16 +153,16 @@ public class AlbumTest extends AbstractModelTest {
 								AbstractModelTest.TEST_ALBUM,
 								null,
 								ISO_3166_1_alpha2.DE));
-		this.assertAlbumGetBuyLinks(affiliations);
+		this.assertGetBuyLinks(affiliations);
 
 		affiliations =
 				AbstractModelTest.getWs().fetch(
 						Album.getBuylinks(null, null, AbstractModelTest.TEST_ALBUM_MBID, ISO_3166_1_alpha2.DE));
-		this.assertAlbumGetBuyLinks(affiliations);
+		this.assertGetBuyLinks(affiliations);
 	};
 
 
-	private void assertAlbumGetBuyLinks(final Affiliations affiliations) {
+	private void assertGetBuyLinks(final Affiliations affiliations) {
 
 		final List<Affiliation> physicals = affiliations.getPhysicalAffiliations();
 		this.assertNotEmpty(physicals);
@@ -189,7 +191,7 @@ public class AlbumTest extends AbstractModelTest {
 	 * Test {@link Album#getInfo}.
 	 */
 	@Test
-	public final void testAlbumGetInfo() throws LastfmWebServicesException {
+	public final void testGetInfo() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Album.getInfo(null, null, null, null, null),
@@ -205,17 +207,17 @@ public class AlbumTest extends AbstractModelTest {
 								null,
 								AbstractModelTest.TEST_USER,
 								ISO_3166_1_alpha2.EN));
-		this.assertAlbumGetInfo(album);
+		this.assertGetInfo(album);
 
 		/* Fetch by mbid */
 		album =
 				AbstractModelTest.getWs().fetch(
 						Album.getInfo(null, null, AbstractModelTest.TEST_ALBUM_MBID, AbstractModelTest.TEST_USER, null));
-		this.assertAlbumGetInfo(album);
+		this.assertGetInfo(album);
 	}
 
 
-	private void assertAlbumGetInfo(final Album album) {
+	private void assertGetInfo(final Album album) {
 
 		this.assertName(album, AbstractModelTest.TEST_ALBUM);
 		this.assertName(album.getArtist(), AbstractModelTest.TEST_ARTIST);
@@ -259,7 +261,7 @@ public class AlbumTest extends AbstractModelTest {
 	 * @throws LastfmWebServicesException
 	 */
 	@Test
-	public final void testAlbumGetShouts() throws LastfmWebServicesException {
+	public final void testGetShouts() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Album.getShouts(null, null, null, null, null),
@@ -274,16 +276,16 @@ public class AlbumTest extends AbstractModelTest {
 								null,
 								AbstractModelTest.TEST_LIMIT,
 								2));
-		this.assertAlbumGetShouts(result);
+		this.assertGetShouts(result);
 
 		result =
 				AbstractModelTest.getWs().fetch(
 						Album.getShouts(null, null, AbstractModelTest.TEST_ALBUM_MBID, AbstractModelTest.TEST_LIMIT, 2));
-		this.assertAlbumGetShouts(result);
+		this.assertGetShouts(result);
 	}
 
 
-	private void assertAlbumGetShouts(final PaginatedResult<List<Shout>> result) {
+	private void assertGetShouts(final PaginatedResult<List<Shout>> result) {
 
 		this.assertEquals(AbstractModelTest.TEST_LIMIT, result.getPerPage());
 		this.assertEquals(2, result.getPage());
@@ -302,12 +304,12 @@ public class AlbumTest extends AbstractModelTest {
 
 	/**
 	 * Test {@link Album#getTags()}, this is actually performed by
-	 * {@link AlbumTest#testAlbumAddRemoveGetTags()}.
+	 * {@link AlbumTest#testAddRemoveGetTags()}.
 	 * 
 	 * @throws LastfmWebServicesException
 	 */
 	@Test
-	public final void testAlbumGetTags() throws LastfmWebServicesException {
+	public final void testGetTags() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Album.getTags(null, null, null, null),
@@ -321,7 +323,7 @@ public class AlbumTest extends AbstractModelTest {
 	 * Test {@link Album#getTopTags}.
 	 */
 	@Test
-	public final void testAlbumGetTopTags() throws LastfmWebServicesException {
+	public final void testGetTopTags() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Album.getTopTags(null, null, null),
@@ -331,15 +333,15 @@ public class AlbumTest extends AbstractModelTest {
 		ArrayList<Tag> tags =
 				AbstractModelTest.getWs().fetch(
 						Album.getTopTags(AbstractModelTest.TEST_ARTIST, AbstractModelTest.TEST_ALBUM, null));
-		this.asssertAlbumGetTags(tags);
+		this.asssertGetTags(tags);
 
 		tags = AbstractModelTest.getWs().fetch(Album.getTopTags(null, null, AbstractModelTest.TEST_ALBUM_MBID));
-		this.asssertAlbumGetTags(tags);
+		this.asssertGetTags(tags);
 
 	};
 
 
-	private void asssertAlbumGetTags(final ArrayList<Tag> tags) {
+	private void asssertGetTags(final ArrayList<Tag> tags) {
 
 		this.assertNotEmpty(tags);
 		for (final Tag tag : tags) {
@@ -352,10 +354,10 @@ public class AlbumTest extends AbstractModelTest {
 
 	/**
 	 * Test {@link Album#removeTag(String, String, String, String)}, this is actually performed by
-	 * {@link AlbumTest#testAlbumAddRemoveGetTags()}.
+	 * {@link AlbumTest#testAddRemoveGetTags()}.
 	 */
 	@Test
-	public final void testAlbumRemoveTag() {
+	public final void testRemoveTag() {
 
 		this.assertMissingParameter(
 				Album.removeTag(null, null, null, null),
@@ -368,7 +370,7 @@ public class AlbumTest extends AbstractModelTest {
 	 * Test {@link Album#search}.
 	 */
 	@Test
-	public final void testAlbumSearch() throws LastfmWebServicesException {
+	public final void testSearch() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Album.search(null, null, null),
@@ -397,33 +399,37 @@ public class AlbumTest extends AbstractModelTest {
 		this.assertTrue(mbidFound);
 	};
 
+
 	/**
 	 * Test {@link Album#share}.
 	 */
-	// @Test
-	// public final void testAlbumShare() throws LastfmWebServicesException {
-	//
-	// this.assertMissingParameter(
-	// Album.share(null, null, null, null, null, null),
-	// LastfmWebServicesException.INVALID_PARAMETERS,
-	// "Invalid parameters - Your request is missing a required parameter");
-	//
-	// Assume.assumeTrue(AbstractModelTest.getTestConf().runManipulatingAuthTests());
-	//
-	// final Session session = AbstractModelTest.getSession();
-	//
-	// AbstractModelTest.getWs().execute(
-	// Album.share(
-	// AbstractModelTest.TEST_ARTIST,
-	// AbstractModelTest.TEST_ALBUM,
-	// Collections.singletonList(AbstractModelTest.getTestConf().getUser()),
-	// false,
-	// "This is a test sharing message.",
-	// session.getKey()));
-	// System.err.println("CHECK MANUALLY THAT THE USER " +
-	// AbstractModelTest.getTestConf().getUser()
-	// + " HAS RECEIVED A RECOMMENDATION FOR " + AbstractModelTest.TEST_ARTIST + " - "
-	// + AbstractModelTest.TEST_ALBUM);
-	// };
+	@Test
+	@Ignore("This test cannot be executed automatically")
+	public final void testShare() throws LastfmWebServicesException {
+
+		this.assertMissingParameter(
+				Album.share(null, null, null, null, null, null),
+				LastfmWebServicesException.INVALID_PARAMETERS,
+				"Invalid parameters - Your request is missing a required parameter");
+
+		Assume.assumeTrue(AbstractModelTest.getTestConf().runManipulatingAuthTests());
+
+		final Session session = AbstractModelTest.getSession();
+
+		AbstractModelTest.getWs().execute(
+				Album.share(
+						AbstractModelTest.TEST_ARTIST,
+						AbstractModelTest.TEST_ALBUM,
+						Collections.singletonList(AbstractModelTest.getTestConf().getUser()),
+						false,
+						"This is a test sharing message.",
+						session.getKey()));
+		System.err.println("CHECK MANUALLY THAT THE USER "
+				+ AbstractModelTest.getTestConf().getUser()
+				+ " HAS RECEIVED A RECOMMENDATION FOR "
+				+ AbstractModelTest.TEST_ARTIST
+				+ " - "
+				+ AbstractModelTest.TEST_ALBUM);
+	};
 
 }

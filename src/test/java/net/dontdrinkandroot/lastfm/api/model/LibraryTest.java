@@ -55,7 +55,7 @@ public class LibraryTest extends AbstractModelTest {
 
 	/**
 	 * Test {@link Library#removeAlbum}, actually performed by
-	 * {@link LibraryTest#testLibraryAddRemoveAlbum()}.
+	 * {@link LibraryTest#testAddRemoveAlbum()}.
 	 */
 	// @Test
 	// public final void testLibraryRemoveAlbum() throws LastfmWebServicesException {
@@ -67,7 +67,7 @@ public class LibraryTest extends AbstractModelTest {
 	// };
 
 	@Test
-	public void testLibraryAddRemoveAlbum() throws LastfmWebServicesException {
+	public void testAddRemoveAlbum() throws LastfmWebServicesException {
 
 		Assume.assumeTrue(AbstractModelTest.getTestConf().runManipulatingAuthTests());
 
@@ -226,7 +226,7 @@ public class LibraryTest extends AbstractModelTest {
 
 	/**
 	 * Test {@link Library#removeTrack}, actually performed by
-	 * {@link LibraryTest#testLibraryAddRemoveTrack()}.
+	 * {@link LibraryTest#testAddRemoveTrack()}.
 	 */
 	// @Test
 	// public final void testLibraryRemoveTrack() throws LastfmWebServicesException {
@@ -238,7 +238,7 @@ public class LibraryTest extends AbstractModelTest {
 	// };
 
 	@Test
-	public void testLibraryAddRemoveTrack() throws LastfmWebServicesException {
+	public void testAddRemoveTrack() throws LastfmWebServicesException {
 
 		Assume.assumeTrue(AbstractModelTest.getTestConf().runManipulatingAuthTests());
 

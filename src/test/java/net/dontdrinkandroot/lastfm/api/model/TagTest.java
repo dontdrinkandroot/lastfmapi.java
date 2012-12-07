@@ -55,7 +55,7 @@ public class TagTest extends AbstractModelTest {
 	 * Test {@link Tag#getTopTags}.
 	 */
 	@Test
-	public final void testTagGetTopTags() throws LastfmWebServicesException {
+	public final void testGetTopTags() throws LastfmWebServicesException {
 
 		final List<Tag> tags = AbstractModelTest.getWs().fetch(Tag.getTopTags());
 		this.assertNotNull(tags);

@@ -40,7 +40,7 @@ public class ArtistTest extends AbstractModelTest {
 	 * {@link ArtistTest#testArtistAddRemoveGetTags}.
 	 */
 	@Test
-	public final void testArtistAddTags() throws LastfmWebServicesException {
+	public final void testAddTags() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Artist.addTags(null, null, null),
@@ -53,7 +53,7 @@ public class ArtistTest extends AbstractModelTest {
 	 * Test {@link Artist#addTags}, {@link Artist#removeTag}, {@link Artist#getTags()}.
 	 */
 	@Test
-	public final void testArtistAddRemoveGetTags() throws LastfmWebServicesException {
+	public final void testAddRemoveGetTags() throws LastfmWebServicesException {
 
 		Assume.assumeTrue(AbstractModelTest.getTestConf().runManipulatingAuthTests());
 
@@ -132,7 +132,7 @@ public class ArtistTest extends AbstractModelTest {
 	 * @throws LastfmWebServicesException
 	 */
 	@Test
-	public final void testArtistGetCorrection() throws LastfmWebServicesException {
+	public final void testGetCorrection() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Artist.getCorrection(null),
@@ -152,7 +152,7 @@ public class ArtistTest extends AbstractModelTest {
 	 * Test {@link Artist#getInfo}.
 	 */
 	@Test
-	public final void testArtistGetInfo() throws LastfmWebServicesException {
+	public final void testGetInfo() throws LastfmWebServicesException {
 
 		/* Check empty query */
 		this.assertMissingParameter(
@@ -168,17 +168,17 @@ public class ArtistTest extends AbstractModelTest {
 								null,
 								AbstractModelTest.TEST_USER,
 								ISO_3166_1_alpha2.DE));
-		this.assertArtistGetInfo(artist);
+		this.assertGetInfo(artist);
 
 		/* Do fetch by mbid */
 		artist =
 				AbstractModelTest.getWs().fetch(
 						Artist.getInfo(null, AbstractModelTest.TEST_ARTIST_MBID, AbstractModelTest.TEST_USER, null));
-		this.assertArtistGetInfo(artist);
+		this.assertGetInfo(artist);
 	};
 
 
-	private void assertArtistGetInfo(final Artist artist) {
+	private void assertGetInfo(final Artist artist) {
 
 		this.assertName(artist, AbstractModelTest.TEST_ARTIST);
 		this.assertMbid(artist, AbstractModelTest.TEST_ARTIST_MBID);
@@ -239,7 +239,7 @@ public class ArtistTest extends AbstractModelTest {
 	 * @throws LastfmWebServicesException
 	 */
 	@Test
-	public final void testArtistGetShouts() throws LastfmWebServicesException {
+	public final void testGetShouts() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Artist.getShouts(null, null, null, null),
@@ -276,7 +276,7 @@ public class ArtistTest extends AbstractModelTest {
 	 * Test {@link Artist#getSimilar}.
 	 */
 	@Test
-	public final void testArtistGetSimilar() throws LastfmWebServicesException {
+	public final void testGetSimilar() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Artist.getSimilar(null, null, null),
@@ -286,16 +286,16 @@ public class ArtistTest extends AbstractModelTest {
 		List<Artist> artists =
 				AbstractModelTest.getWs().fetch(
 						Artist.getSimilar(AbstractModelTest.TEST_ARTIST, null, AbstractModelTest.TEST_LIMIT));
-		this.assertArtistGetSimilar(artists);
+		this.assertGetSimilar(artists);
 
 		artists =
 				AbstractModelTest.getWs().fetch(
 						Artist.getSimilar(null, AbstractModelTest.TEST_ARTIST_MBID, AbstractModelTest.TEST_LIMIT));
-		this.assertArtistGetSimilar(artists);
+		this.assertGetSimilar(artists);
 	}
 
 
-	private void assertArtistGetSimilar(final List<Artist> artists) {
+	private void assertGetSimilar(final List<Artist> artists) {
 
 		this.assertNotEmpty(artists);
 		this.assertEquals(AbstractModelTest.TEST_LIMIT, artists.size());
@@ -320,7 +320,7 @@ public class ArtistTest extends AbstractModelTest {
 	 * {@link ArtistTest#testArtistAddRemoveGetTags}.
 	 */
 	@Test
-	public final void testArtistGetTags() throws LastfmWebServicesException {
+	public final void testGetTags() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Artist.getTags(null, null, null),
@@ -349,7 +349,7 @@ public class ArtistTest extends AbstractModelTest {
 	 * Test {@link Artist#getTopTags}.
 	 */
 	@Test
-	public final void testArtistGetTopTags() throws LastfmWebServicesException {
+	public final void testGetTopTags() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Artist.getTopTags(null, null),
@@ -357,14 +357,14 @@ public class ArtistTest extends AbstractModelTest {
 				"You must supply either an artist name or a musicbrainz id");
 
 		List<Tag> topTags = AbstractModelTest.getWs().fetch(Artist.getTopTags(AbstractModelTest.TEST_ARTIST, null));
-		this.assertArtistGetTopTags(topTags);
+		this.assertGetTopTags(topTags);
 
 		topTags = AbstractModelTest.getWs().fetch(Artist.getTopTags(null, AbstractModelTest.TEST_ARTIST_MBID));
-		this.assertArtistGetTopTags(topTags);
+		this.assertGetTopTags(topTags);
 	};
 
 
-	private void assertArtistGetTopTags(final List<Tag> topTags) {
+	private void assertGetTopTags(final List<Tag> topTags) {
 
 		this.assertNotNull(topTags);
 		for (final Tag tag : topTags) {
@@ -379,7 +379,7 @@ public class ArtistTest extends AbstractModelTest {
 	 * Test {@link Artist#getTopTracks}.
 	 */
 	@Test
-	public final void testArtistGetTopTracks() throws LastfmWebServicesException {
+	public final void testGetTopTracks() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Artist.getTopTracks(null, null, null, null),
@@ -389,16 +389,16 @@ public class ArtistTest extends AbstractModelTest {
 		PaginatedResult<List<Track>> result =
 				AbstractModelTest.getWs().fetch(
 						Artist.getTopTracks(AbstractModelTest.TEST_ARTIST, null, AbstractModelTest.TEST_LIMIT, 2));
-		this.assertArtistGetTopTracks(result);
+		this.assertGetTopTracks(result);
 
 		result =
 				AbstractModelTest.getWs().fetch(
 						Artist.getTopTracks(null, AbstractModelTest.TEST_ARTIST_MBID, AbstractModelTest.TEST_LIMIT, 2));
-		this.assertArtistGetTopTracks(result);
+		this.assertGetTopTracks(result);
 	};
 
 
-	private void assertArtistGetTopTracks(final PaginatedResult<List<Track>> result) {
+	private void assertGetTopTracks(final PaginatedResult<List<Track>> result) {
 
 		this.assertPaginatedResult(result);
 
@@ -431,7 +431,7 @@ public class ArtistTest extends AbstractModelTest {
 	 * {@link ArtistTest#testArtistAddRemoveGetTags}.
 	 */
 	@Test
-	public final void testArtistRemoveTag() throws LastfmWebServicesException {
+	public final void testRemoveTag() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Artist.removeTag(null, null, null),

@@ -254,7 +254,7 @@ public class CheckImplementationStatus {
 				}
 
 				boolean testMethodFound = false;
-				final String testMethodName = "test" + pkg + StringUtils.capitalize(method);
+				final String testMethodName = "test" + StringUtils.capitalize(method);
 				for (final Method testMethod : testMethods) {
 					if (testMethod.getName().equals(testMethodName)) {
 						testMethodFound = true;

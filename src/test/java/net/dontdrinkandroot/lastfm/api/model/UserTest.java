@@ -37,7 +37,7 @@ public class UserTest extends AbstractModelTest {
 	 * Test {@link User#getArtistTracks}.
 	 */
 	@Test
-	public final void testUserGetArtistTracks() throws LastfmWebServicesException {
+	public final void testGetArtistTracks() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				User.getArtistTracks(null, null, null, null, null),
@@ -86,7 +86,7 @@ public class UserTest extends AbstractModelTest {
 
 
 	@Test
-	public void testUserGetBannedTracks() throws LastfmWebServicesException {
+	public void testGetBannedTracks() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				User.getBannedTracks(null, null, null),
@@ -336,7 +336,7 @@ public class UserTest extends AbstractModelTest {
 	 * Test {@link User#getRecentTracks}.
 	 */
 	@Test
-	public final void testUserGetRecentTracks() throws LastfmWebServicesException {
+	public final void testGetRecentTracks() throws LastfmWebServicesException {
 
 		PaginatedResult<List<Track>> result =
 				AbstractModelTest.getWs().fetch(User.getRecentTracks("shoxrocks", null, null, 1115610824, 1115612683));

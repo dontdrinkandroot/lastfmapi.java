@@ -39,7 +39,7 @@ public class GroupTest extends AbstractModelTest {
 	 * Test {@link Group#getMembers}.
 	 */
 	@Test
-	public final void testGroupGetMembers() throws LastfmWebServicesException {
+	public final void testGetMembers() throws LastfmWebServicesException {
 
 		this.assertMissingParameter(
 				Group.getMembers(null, null, null),

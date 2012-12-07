@@ -47,7 +47,7 @@ public class RadioTest extends AbstractModelTest {
 	 * @throws IOException
 	 */
 	@Test
-	public final void testRadioGetPlaylist() throws LastfmWebServicesException, IOException, SAXException,
+	public final void testGetPlaylist() throws LastfmWebServicesException, IOException, SAXException,
 			ParserConfigurationException {
 
 		Assume.assumeTrue(AbstractModelTest.getTestConf().runAuthTests());
@@ -99,7 +99,7 @@ public class RadioTest extends AbstractModelTest {
 	 * @throws MalformedURLException
 	 */
 	@Test
-	public final void testRadioTune() throws LastfmWebServicesException, MalformedURLException {
+	public final void testTune() throws LastfmWebServicesException, MalformedURLException {
 
 		Assume.assumeTrue(AbstractModelTest.getTestConf().runAuthTests());
 

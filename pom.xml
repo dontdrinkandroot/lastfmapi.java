@@ -32,7 +32,7 @@
 	</repositories>
 
 	<scm>
-		<developerConnection>scm:git:https://github.com/philipsorst/lastfmapi.git</developerConnection>
+		<developerConnection>scm:git:https://github.com/dontdrinkandroot/lastfmapi.git</developerConnection>
 	</scm>
 
 	<build>

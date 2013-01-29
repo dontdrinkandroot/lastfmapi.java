@@ -41,6 +41,12 @@ public class Wiki implements Serializable {
 	private String content;
 
 
+	protected Wiki() {
+
+		/* Default constructor for reflection instantiation */
+	}
+
+
 	/**
 	 * Generate Wiki from an XML Element.
 	 * 

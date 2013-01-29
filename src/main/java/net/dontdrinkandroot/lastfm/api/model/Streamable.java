@@ -33,6 +33,12 @@ public class Streamable implements Serializable {
 	private Boolean fullTrack;
 
 
+	protected Streamable() {
+
+		/* Default constructor for reflection instantiation */
+	}
+
+
 	/**
 	 * Create streamable information from dom4j element.
 	 * 

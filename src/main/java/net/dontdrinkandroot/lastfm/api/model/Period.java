@@ -101,6 +101,10 @@ public enum Period {
 
 			return Period.SEVEN_DAY;
 
+		} else if (s.toLowerCase().equals("1month") || s.toLowerCase().equals("one_month")) {
+
+			return Period.ONE_MONTH;
+
 		} else if (s.toLowerCase().equals("3month") || s.toLowerCase().equals("three_month")) {
 
 			return Period.THREE_MONTH;
@@ -112,7 +116,6 @@ public enum Period {
 		} else if (s.toLowerCase().equals("12month") || s.toLowerCase().equals("twelve_month")) {
 
 			return Period.TWELVE_MONTH;
-
 		}
 
 		return Period.OVERALL;

@@ -2,7 +2,7 @@
 	<parent>
 		<groupId>net.dontdrinkandroot</groupId>
 		<artifactId>parent</artifactId>
-		<version>3</version>
+		<version>4</version>
 	</parent>
 	<modelVersion>4.0.0</modelVersion>
 	<artifactId>lastfmapi</artifactId>
@@ -34,6 +34,15 @@
 	<scm>
 		<developerConnection>scm:git:https://github.com/dontdrinkandroot/lastfmapi.git</developerConnection>
 	</scm>
+	
+	<properties>
+		<org.apache.httpcomponents.httpclient.version>4.2.2</org.apache.httpcomponents.httpclient.version>
+		<com.melloware.jspiff.version>1.0</com.melloware.jspiff.version>
+		<org.ccil.cowan.tagsoup.version>1.2.1</org.ccil.cowan.tagsoup.version>
+		<dom4j.version>1.6.1</dom4j.version>
+		<jaxen.version>1.1.4</jaxen.version>
+		<net.dontdrinkandroot.utils.version>0.2.0</net.dontdrinkandroot.utils.version>
+	</properties>
 
 	<build>
 
@@ -55,16 +64,6 @@
 					</systemPropertyVariables>
 				</configuration>
 			</plugin>
-
-			<!-- TODO: Remove with next parent version -->
-			<plugin>
-				<groupId>com.mycila.maven-license-plugin</groupId>
-				<artifactId>maven-license-plugin</artifactId>
-				<configuration>
-					<header>license.txt</header>
-				</configuration>
-			</plugin>
-
 		</plugins>
 
 	</build>
@@ -75,23 +74,26 @@
 		<dependency>
 			<groupId>org.apache.httpcomponents</groupId>
 			<artifactId>httpclient</artifactId>
+			<version>${org.apache.httpcomponents.httpclient.version}</version>
 		</dependency>
 
 		<dependency>
 			<groupId>net.dontdrinkandroot</groupId>
 			<artifactId>utils</artifactId>
-			<version>0.1.1</version>
+			<version>${net.dontdrinkandroot.utils.version}</version>
 		</dependency>
 
 		<dependency>
 			<groupId>com.melloware</groupId>
 			<artifactId>jspiff</artifactId>
+			<version>${com.melloware.jspiff.version}</version>
 		</dependency>
 
 		<!-- Test -->
 		<dependency>
 			<groupId>org.ccil.cowan.tagsoup</groupId>
 			<artifactId>tagsoup</artifactId>
+			<version>${org.ccil.cowan.tagsoup.version}</version>
 			<scope>test</scope>
 		</dependency>
 
@@ -104,12 +106,14 @@
 		<dependency>
 			<groupId>dom4j</groupId>
 			<artifactId>dom4j</artifactId>
+			<version>${dom4j.version}</version>
 			<scope>test</scope>
 		</dependency>
 
 		<dependency>
 			<groupId>jaxen</groupId>
 			<artifactId>jaxen</artifactId>
+			<version>${jaxen.version}</version>
 			<scope>test</scope>
 		</dependency>
 

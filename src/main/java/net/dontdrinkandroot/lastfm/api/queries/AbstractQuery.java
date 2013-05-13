@@ -22,11 +22,12 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.TreeMap;
 
+
 /**
  * Implementation of the common methods of a {@link Query}.
- *
+ * 
  * @author Philip W. Sorst
- *
+ * 
  * @param <T>
  *            The return type of the query.
  */
@@ -70,6 +71,19 @@ public abstract class AbstractQuery<T extends Serializable> implements Query<T> 
 		if (value != null) {
 			this.parameters.put(key, value.toString());
 		}
+	}
+
+
+	@Override
+	public String toString() {
+
+		StringBuilder sb = new StringBuilder();
+		sb.append(this.getClass().getSimpleName());
+		sb.append("[");
+		sb.append(this.parameters.toString());
+		sb.append("]");
+
+		return sb.toString();
 	}
 
 }

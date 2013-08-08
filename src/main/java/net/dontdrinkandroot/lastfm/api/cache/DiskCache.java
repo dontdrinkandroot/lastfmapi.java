@@ -40,13 +40,20 @@ public class DiskCache implements Cache {
 
 	public DiskCache() {
 
-		this.baseDir = new File(FileUtils.getUserDirectory(), "lastfmcache");
+		this(new File(FileUtils.getUserDirectory(), "lastfmcache"));
 	}
 
 
 	public DiskCache(File baseDir) {
 
 		this.baseDir = baseDir;
+
+		/* Create Cache BaseDir if it does not exist */
+		if (!baseDir.exists()) {
+			if (!baseDir.mkdirs()) {
+				throw new RuntimeException("Creating " + baseDir + " failed");
+			}
+		}
 	}
 
 

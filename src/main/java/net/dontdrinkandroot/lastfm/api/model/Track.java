@@ -352,7 +352,16 @@ public class Track extends LfmEntity
 	public final void setUserPlayCount(final Integer userPlayCount) {
 
 		this.userPlayCount = userPlayCount;
+	}
 
+
+	@Override
+	public String toString() {
+
+		return String.format(
+				"Track[%s,%s]",
+				this.getArtist() == null ? null : this.getArtist().getName(),
+				this.getName());
 	}
 
 

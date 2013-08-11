@@ -17,6 +17,7 @@
  */
 package net.dontdrinkandroot.lastfm.api.model;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import net.dontdrinkandroot.lastfm.api.LastfmWebServicesException;
@@ -26,13 +27,27 @@ import org.junit.Test;
 
 public class TagTest extends AbstractModelTest {
 
-	// /**
-	// * Test {@link Tag#getSimilar}.
-	// */
-	// @Test
-	// public final void testTagGetSimilar() throws LastfmWebServicesException {
-	// Object result = getWs().fetch(Tag.getSimilar(null));
-	// };
+	/**
+	 * Test {@link Tag#getSimilar}.
+	 */
+	@Test
+	public final void testTagGetSimilar() throws LastfmWebServicesException {
+
+		this.assertMissingParameter(
+				Tag.getSimilar(null),
+				LastfmWebServicesException.INVALID_PARAMETERS,
+				"Invalid parameters - Your request is missing the [tag] parameter");
+
+		ArrayList<Tag> similarTags = AbstractModelTest.getWs().fetch(Tag.getSimilar("disco"));
+		this.assertNotEmpty(similarTags);
+		for (Tag tag : similarTags) {
+			this.assertNameSet(tag);
+			this.assertUrlSet(tag);
+			this.assertStreamableSet(tag);
+		}
+	};
+
+
 	//
 	// /**
 	// * Test {@link Tag#getTopAlbums}.

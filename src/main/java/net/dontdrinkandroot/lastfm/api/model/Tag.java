@@ -266,33 +266,37 @@ public class Tag extends LfmEntity
 	}
 
 
-	// /**
-	// * Search for tags similar to this one. Returns tags ranked by similarity, based on
-	// * listening data.
-	// * @param tag The tag name in question. (Required).
-	// * @return
-	// */
-	// public static UnauthenticatedGetQuery<Serializable> getSimilar(
-	// final Object tag
-	// ) {
-	// //TODO: implement
-	// if (1 == 1) throw new RuntimeException("Not implemented");
-	// UnauthenticatedGetQuery<Serializable> query
-	// = new AbstractUnauthenticatedGetQuery<Serializable>("tag.getSimilar") {
-	// @Override
-	// public Serializable parse(final Element root) {
-	// return null;
-	// }
-	// };
-	// query.addParameter("tag", tag);
-	// return query;
-	// }
-	//
-	//
-	//
-	//
 	/**
-	 * Get the top albums tagged by this tag, ordered by tag count. *
+	 * Search for tags similar to this one. Returns tags ranked by similarity, based on listening
+	 * data.
+	 * 
+	 * @param tag
+	 *            The tag name (Required).
+	 */
+	public static UnauthenticatedGetQuery<ArrayList<Tag>> getSimilar(final String tag) {
+
+		UnauthenticatedGetQuery<ArrayList<Tag>> query =
+				new AbstractUnauthenticatedGetQuery<ArrayList<Tag>>("tag.getSimilar") {
+
+					@Override
+					public ArrayList<Tag> parse(final Element root) {
+
+						final List<Element> tagElements = DomUtils.getChildrenByTagName(root, "tag");
+						final ArrayList<Tag> tags = new ArrayList<Tag>();
+						for (final Element tagElement : tagElements) {
+							tags.add(new Tag(tagElement));
+						}
+
+						return tags;
+					}
+				};
+		query.addParameter("tag", tag);
+		return query;
+	}
+
+
+	/**
+	 * Get the top albums tagged by this tag, ordered by tag count.
 	 * 
 	 * @param tagName
 	 *            The tag name (Required).
@@ -357,9 +361,9 @@ public class Tag extends LfmEntity
 	}
 
 
+	// TODO: Using arraylist here to avoid complex generics.
 	/**
-	 * Fetches the top global tags on Last.fm, sorted by popularity (number oftimes used). TODO:
-	 * Using arraylist here to avoid complex generics.
+	 * Fetches the top global tags on Last.fm, sorted by popularity (number oftimes used).
 	 * 
 	 * @return The query needed to fetch the TopTags.
 	 */

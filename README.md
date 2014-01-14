@@ -1,7 +1,7 @@
 Java bindings for the last.fm API
 =================================
 
-[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=shoxrocks&url=https://github.com/dontdrinkandroot/lastfmapi.java&title=Java bindings for the last.fm API&language=&tags=github&category=software)
+[![Flattr this git repo](http://api.flattr.com/button/flattr-badge-large.png)](https://flattr.com/submit/auto?user_id=shoxrocks&url=https://github.com/philipsorst/lastfmapi.java&title=Java bindings for the last.fm API&language=&tags=github&category=software)
 
 Maven
 -----
